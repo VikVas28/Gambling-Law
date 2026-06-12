@@ -66,6 +66,12 @@ export default function VenueList({ items, selectedId, onSelect }: Props) {
                     </span>
                   )}
                 </span>
+                <span
+                  aria-hidden
+                  className="ml-auto self-center pl-2 text-lg text-slate-500"
+                >
+                  ›
+                </span>
               </span>
             </button>
           </li>

@@ -8,8 +8,12 @@ import {
   STATUS_ORDER,
   type ClassifiedVenue,
 } from "../lib/compliance";
+import {
+  DEFAULT_FILTERS,
+  isDefaultFilters,
+  type FiltersState,
+} from "../lib/filters";
 import type { Status } from "../lib/types";
-import type { FiltersState } from "../App";
 
 type Tab = "overview" | "law";
 
@@ -21,6 +25,38 @@ interface Props {
   items: ClassifiedVenue[];
   selectedId: string | null;
   onSelect: (id: string) => void;
+}
+
+function Section({
+  step,
+  title,
+  hint,
+  children,
+}: {
+  step: number;
+  title: string;
+  hint?: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <section>
+      <h2 className="flex items-center gap-2 text-[15px] font-bold text-white">
+        <span
+          aria-hidden
+          className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-indigo-600 text-[11px] font-bold text-white"
+        >
+          {step}
+        </span>
+        {title}
+      </h2>
+      {hint && (
+        <p className="mb-2 mt-0.5 pl-7 text-xs leading-snug text-slate-400">
+          {hint}
+        </p>
+      )}
+      <div className="pl-0">{children}</div>
+    </section>
+  );
 }
 
 export default function Sidebar({
@@ -87,7 +123,7 @@ export default function Sidebar({
         <nav className="flex gap-1 px-4 pb-2 pt-1 lg:pt-0" aria-label="Панели">
           {(
             [
-              ["overview", "Преглед"],
+              ["overview", "Објекти"],
               ["law", "За законот"],
             ] as const
           ).map(([key, label]) => (
@@ -107,29 +143,53 @@ export default function Sidebar({
           ))}
         </nav>
 
-        <div className="min-h-0 flex-1 space-y-4 overflow-y-auto px-4 py-3">
+        <div className="min-h-0 flex-1 space-y-5 overflow-y-auto px-4 py-3">
           {tab === "overview" ? (
             <>
-              <StatsBar
-                counts={counts}
-                active={filters.statuses}
-                onToggle={toggleStatus}
-              />
-              <Filters
-                filters={filters}
-                municipalities={municipalities}
-                onChange={onFiltersChange}
-              />
-              <div>
-                <h2 className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-slate-400">
-                  Објекти ({items.length})
-                </h2>
+              <Section
+                step={1}
+                title="Што да се прикажува"
+                hint="Штиклирај ги статусите што сакаш да ги гледаш. Бројот десно кажува колку објекти има."
+              >
+                <StatsBar
+                  counts={counts}
+                  active={filters.statuses}
+                  onToggle={toggleStatus}
+                />
+              </Section>
+
+              <Section
+                step={2}
+                title="Најди објект"
+                hint="Напиши име или избери општина од листата."
+              >
+                <Filters
+                  filters={filters}
+                  municipalities={municipalities}
+                  onChange={onFiltersChange}
+                />
+                {!isDefaultFilters(filters) && (
+                  <button
+                    type="button"
+                    onClick={() => onFiltersChange(DEFAULT_FILTERS)}
+                    className="mt-2 w-full rounded-lg border border-slate-600 bg-slate-800 px-3 py-2.5 text-sm font-medium text-slate-100 hover:bg-slate-700"
+                  >
+                    ↺ Прикажи сè одново
+                  </button>
+                )}
+              </Section>
+
+              <Section
+                step={3}
+                title={`Листа на објекти (${items.length})`}
+                hint="Кликни на објект — мапата ќе се приближи до него."
+              >
                 <VenueList
                   items={items}
                   selectedId={selectedId}
                   onSelect={handleSelect}
                 />
-              </div>
+              </Section>
             </>
           ) : (
             <LawPanel />

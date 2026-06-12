@@ -4,34 +4,8 @@ import MapView from "./components/MapView";
 import Sidebar from "./components/Sidebar";
 import Legend from "./components/Legend";
 import { classifyAll, type ClassifiedVenue } from "./lib/compliance";
-import type { School, SchoolType, Status, Venue, VenueKind } from "./lib/types";
-
-export interface FiltersState {
-  kinds: Record<VenueKind, boolean>;
-  statuses: Record<Status, boolean>;
-  schoolTypes: Record<SchoolType, boolean>;
-  municipality: string; // "all" или име на општина
-  query: string;
-  showSchools: boolean;
-  showZones: boolean;
-  showMunicipalities: boolean;
-}
-
-export const DEFAULT_FILTERS: FiltersState = {
-  kinds: {
-    casino: true,
-    automat_club: true,
-    electronic_games: true,
-    betting_shop: true,
-  },
-  statuses: { compliant: true, restricted: true, must_relocate: true },
-  schoolTypes: { primary: true, secondary: true },
-  municipality: "all",
-  query: "",
-  showSchools: true,
-  showZones: true,
-  showMunicipalities: true,
-};
+import { DEFAULT_FILTERS, type FiltersState } from "./lib/filters";
+import type { School, Status, Venue } from "./lib/types";
 
 export default function App() {
   const [schools, setSchools] = useState<School[] | null>(null);
