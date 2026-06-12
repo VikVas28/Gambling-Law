@@ -23,6 +23,8 @@ export interface Venue {
   kind: VenueKind;
   operator?: string;
   licenseNo?: string;
+  licenseUrl?: string; // PDF на лиценцата (Министерство за финансии)
+  geocodePrecision?: "street" | "poi" | "city"; // за геокодирани адреси
   lat: number;
   lng: number;
   municipality?: string;

@@ -37,6 +37,7 @@ export default function VenueDetail({ item }: { item: ClassifiedVenue }) {
       {!venue.verified && (
         <p className="rounded border border-amber-300 bg-amber-50 px-2 py-1 text-xs text-amber-800">
           ⚠ Непроверена локација
+          {venue.geocodePrecision === "city" && " (приближна — само град)"}
         </p>
       )}
 
@@ -54,6 +55,17 @@ export default function VenueDetail({ item }: { item: ClassifiedVenue }) {
         />
         <Row label="Извор" value={venue.source} />
       </dl>
+
+      {venue.licenseUrl && (
+        <a
+          href={venue.licenseUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block text-xs text-indigo-600 underline hover:text-indigo-800"
+        >
+          Лиценца — Министерство за финансии (PDF)
+        </a>
+      )}
     </div>
   );
 }
