@@ -31,7 +31,7 @@ export function isDefaultFilters(filters: FiltersState): boolean {
   return JSON.stringify(filters) === JSON.stringify(DEFAULT_FILTERS);
 }
 
-// Десетте општини на Град Скопје — за групирање во менито „Општина“.
+// Десетте општини на Град Скопје - за групирање во менито „Општина“.
 export const SKOPJE_MUNICIPALITIES = new Set([
   "Аеродром",
   "Бутел",

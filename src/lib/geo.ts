@@ -5,7 +5,7 @@ export interface LatLng {
 
 const EARTH_RADIUS_M = 6371008.8;
 
-// Праволиниско растојание (Haversine) во метри — законот користи „радиус“,
+// Праволиниско растојание (Haversine) во метри - законот користи „радиус“,
 // не пешачко растојание.
 export function distanceMeters(a: LatLng, b: LatLng): number {
   const toRad = (deg: number) => (deg * Math.PI) / 180;

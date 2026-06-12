@@ -134,7 +134,7 @@ export default function MapView({
   const markerRefs = useRef(new Map<string, LeafletMarker>());
   const [basemap, setBasemap] = useState<Basemap>("map");
   const [zoom, setZoom] = useState(12);
-  // Кликнато училиште — се прикажува неговиот личен круг од 500 м.
+  // Кликнато училиште - се прикажува неговиот личен круг од 500 м.
   const [circledSchool, setCircledSchool] = useState<School | null>(null);
   const zoneStyle = ZONE_STYLES[basemap];
 
@@ -157,10 +157,10 @@ export default function MapView({
         <>
           <TileLayer
             key="base-satellite"
-            attribution='&copy; <a href="https://www.esri.com/">Esri</a> — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community'
+            attribution='&copy; <a href="https://www.esri.com/">Esri</a> - Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community'
             url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
           />
-          {/* Светли натписи на места/улици — читливи врз темни снимки */}
+          {/* Светли натписи на места/улици - читливи врз темни снимки */}
           <TileLayer
             key="labels-satellite"
             attribution='&copy; <a href="https://carto.com/attributions">CARTO</a>'

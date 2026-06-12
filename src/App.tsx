@@ -44,7 +44,7 @@ export default function App() {
       );
   }, []);
 
-  // Споените зони од 500 м се опционални — без нив се цртаат кругови.
+  // Споените зони од 500 м се опционални - без нив се цртаат кругови.
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/zones.geojson`, {
       cache: "no-cache",
@@ -77,7 +77,7 @@ export default function App() {
     return [...set].sort((a, b) => a.localeCompare(b, "mk"));
   }, [classified]);
 
-  // Филтри без статусот — основа за бројачите, за да се гледа
+  // Филтри без статусот - основа за бројачите, за да се гледа
   // распределбата по статус и кога некој статус е исклучен.
   const baseFiltered = useMemo(() => {
     const q = filters.query.trim().toLowerCase();
@@ -123,7 +123,7 @@ export default function App() {
     [filtered, selectedId],
   );
 
-  // Училишта за приказ — филтерот важи само за приказот; статусите секогаш
+  // Училишта за приказ - филтерот важи само за приказот; статусите секогаш
   // се пресметуваат спрема СИТЕ училишта (законот важи за основни и средни).
   const visibleSchools = useMemo(
     () => (schools ?? []).filter((s) => filters.schoolTypes[s.type]),

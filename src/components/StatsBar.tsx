@@ -11,7 +11,7 @@ interface Props {
   onToggle: (status: Status) => void;
 }
 
-// Три квадрати едно до друго — голема бројка, кликни за прикажи/сокриј.
+// Три квадрати едно до друго - голема бројка, кликни за прикажи/сокриј.
 export default function StatsBar({ counts, active, onToggle }: Props) {
   return (
     <div className="grid grid-cols-3 gap-2" role="group" aria-label="Филтер по статус">

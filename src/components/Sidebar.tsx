@@ -93,7 +93,7 @@ export default function Sidebar({
       >
         <span className="min-w-0">
           <span className="block truncate text-sm font-bold">
-            Игри на среќа — усогласеност
+            Игри на среќа - усогласеност
           </span>
           <span className="mt-0.5 flex gap-3 text-xs font-semibold">
             {STATUS_ORDER.map((s) => (
@@ -114,7 +114,7 @@ export default function Sidebar({
         }`}
       >
         <header className="hidden px-4 pb-2 pt-4 lg:block">
-          <h1 className="text-lg font-bold">Игри на среќа — усогласеност</h1>
+          <h1 className="text-lg font-bold">Игри на среќа - усогласеност</h1>
           <p className="mt-0.5 text-xs text-slate-400">
             Закон за игри на среќа (2026) · правило од 500 м од училишта
           </p>
@@ -182,7 +182,7 @@ export default function Sidebar({
               <Section
                 step={3}
                 title={`Листа на објекти (${items.length})`}
-                hint="Кликни на објект — мапата ќе се приближи до него."
+                hint="Кликни на објект - мапата ќе се приближи до него."
               >
                 <VenueList
                   items={items}
@@ -197,7 +197,7 @@ export default function Sidebar({
         </div>
 
         <footer className="border-t border-slate-800 px-4 py-2.5 text-[11px] leading-snug text-slate-400">
-          Информативна алатка — не е официјален документ. Меродавни се
+          Информативна алатка - не е официјален документ. Меродавни се
           регистрите на{" "}
           <a
             href="https://finance.gov.mk/mk-MK/oblasti/licenci-za-igri-na-srekja"
@@ -217,7 +217,7 @@ export default function Sidebar({
             УЈП
           </a>
           . Извори: OpenStreetMap · МФ (лиценци) · податоци од 12.06.2026.
-          Целосно одрекување — во „За законот“.
+          Целосно одрекување - во „За законот“.
         </footer>
       </div>
     </aside>

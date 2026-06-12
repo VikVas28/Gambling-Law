@@ -37,7 +37,7 @@ export default function VenueDetail({ item }: { item: ClassifiedVenue }) {
       {!venue.verified && (
         <p className="rounded border border-amber-300 bg-amber-50 px-2 py-1 text-xs text-amber-800">
           ⚠ Непроверена локација
-          {venue.geocodePrecision === "city" && " (приближна — само град)"}
+          {venue.geocodePrecision === "city" && " (приближна - само град)"}
         </p>
       )}
 
@@ -49,7 +49,7 @@ export default function VenueDetail({ item }: { item: ClassifiedVenue }) {
           label="Најблиско уч."
           value={
             nearestSchool && nearestDistanceM !== null
-              ? `${nearestSchool.name} — ${Math.round(nearestDistanceM)} м`
+              ? `${nearestSchool.name} - ${Math.round(nearestDistanceM)} м`
               : undefined
           }
         />
@@ -63,7 +63,7 @@ export default function VenueDetail({ item }: { item: ClassifiedVenue }) {
           rel="noopener noreferrer"
           className="inline-block text-xs text-indigo-600 underline hover:text-indigo-800"
         >
-          Лиценца — Министерство за финансии (PDF)
+          Лиценца - Министерство за финансии (PDF)
         </a>
       )}
     </div>
