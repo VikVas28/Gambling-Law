@@ -23,11 +23,7 @@ export default function Legend() {
         <Dot color={STATUS_COLORS.compliant} /> Сообразен
       </p>
       <p className="flex items-center gap-2">
-        <span
-          className="inline-block h-3 w-3 shrink-0 rounded-[3px] border border-white shadow"
-          style={{ background: SCHOOL_COLOR }}
-        />
-        Училиште
+        <Dot color={SCHOOL_COLOR} /> Училиште
       </p>
       <p className="flex items-center gap-2">
         <span className="inline-block h-3 w-3 shrink-0 rounded-full border border-red-500 bg-red-500/10" />

@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import {
   Circle,
+  CircleMarker,
   MapContainer,
   Marker,
   Popup,
@@ -30,14 +31,6 @@ function venueIcon(item: ClassifiedVenue) {
     popupAnchor: [0, -16],
   });
 }
-
-const schoolIcon = divIcon({
-  className: "school-marker",
-  html: `<div class="marker-square" style="background:${SCHOOL_COLOR}">У</div>`,
-  iconSize: [22, 22],
-  iconAnchor: [11, 11],
-  popupAnchor: [0, -12],
-});
 
 interface SelectionProps {
   selected: ClassifiedVenue | null;
@@ -84,6 +77,7 @@ export default function MapView({
       zoom={12}
       className="h-full w-full"
       scrollWheelZoom
+      preferCanvas
     >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
@@ -108,7 +102,17 @@ export default function MapView({
 
       {showSchools &&
         schools.map((s) => (
-          <Marker key={s.id} position={[s.lat, s.lng]} icon={schoolIcon}>
+          <CircleMarker
+            key={s.id}
+            center={[s.lat, s.lng]}
+            radius={5}
+            pathOptions={{
+              color: "#fff",
+              weight: 1.5,
+              fillColor: SCHOOL_COLOR,
+              fillOpacity: 0.9,
+            }}
+          >
             <Popup>
               <div className="min-w-[180px] space-y-1 text-sm">
                 <p className="font-semibold text-slate-900">{s.name}</p>
@@ -119,7 +123,7 @@ export default function MapView({
                 <p className="text-xs text-slate-400">Извор: {s.source}</p>
               </div>
             </Popup>
-          </Marker>
+          </CircleMarker>
         ))}
 
       {venues.map((c) => (

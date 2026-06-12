@@ -1,80 +1,1505 @@
 [
   {
-    "id": "v-0001",
-    "name": "Казино „Голден Палас“ (пример)",
-    "kind": "casino",
-    "operator": "Пример Гејминг ДООЕЛ Скопје",
-    "licenseNo": "УП 11-111/2024",
-    "lat": 41.9965,
-    "lng": 21.431,
-    "municipality": "Центар",
-    "address": "ул. Пример бр. 1, Скопје",
-    "source": "Тест податоци",
-    "verified": false
-  },
-  {
-    "id": "v-0002",
-    "name": "Автомат клуб „Џекпот“ (пример)",
+    "id": "osm-n-6348113845",
+    "name": "Автомат клуб (без име)",
     "kind": "automat_club",
-    "operator": "Пример Слотс ДОО Скопје",
-    "licenseNo": "УП 11-222/2024",
-    "lat": 42.003,
-    "lng": 21.44,
-    "municipality": "Центар",
-    "address": "ул. Пример бр. 2, Скопје",
-    "source": "Тест податоци",
+    "lat": 41.7376688,
+    "lng": 22.1923817,
+    "source": "OSM",
     "verified": false
   },
   {
-    "id": "v-0003",
-    "name": "Обложувалница „Спорт Бет“ (пример)",
-    "kind": "betting_shop",
-    "operator": "Пример Бет ДООЕЛ Скопје",
-    "licenseNo": "УП 11-333/2024",
-    "lat": 41.989,
-    "lng": 21.459,
-    "municipality": "Аеродром",
-    "address": "ул. Пример бр. 3, Скопје",
-    "source": "Тест податоци",
+    "id": "osm-n-6348219070",
+    "name": "Автомат клуб (без име)",
+    "kind": "automat_club",
+    "lat": 41.7371353,
+    "lng": 22.1912565,
+    "source": "OSM",
     "verified": false
   },
   {
-    "id": "v-0004",
-    "name": "Обложувалница „Мега Тип“ (пример)",
-    "kind": "betting_shop",
-    "operator": "Пример Тип ДОО Скопје",
-    "licenseNo": "УП 11-444/2024",
-    "lat": 41.9745,
-    "lng": 21.431,
-    "municipality": "Кисела Вода",
-    "address": "ул. Пример бр. 4, Скопје",
-    "source": "Тест податоци",
+    "id": "osm-n-6348347623",
+    "name": "Автомат клуб (без име)",
+    "kind": "automat_club",
+    "lat": 41.7384568,
+    "lng": 22.1939057,
+    "source": "OSM",
     "verified": false
   },
   {
-    "id": "v-0005",
-    "name": "Казино „Ројал“ (пример)",
+    "id": "osm-n-9863488599",
+    "name": "Автомат клуб (без име)",
+    "kind": "automat_club",
+    "lat": 41.743112,
+    "lng": 22.1982682,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11899331818",
+    "name": "Автомат клуб (без име)",
+    "kind": "automat_club",
+    "lat": 41.9401133,
+    "lng": 21.5142257,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13424657689",
+    "name": "Адмирал казино",
     "kind": "casino",
-    "operator": "Пример Ројал ДООЕЛ Скопје",
-    "licenseNo": "УП 11-555/2024",
-    "lat": 42.011,
-    "lng": 21.4255,
-    "municipality": "Чаир",
-    "address": "ул. Пример бр. 5, Скопје",
-    "source": "Тест податоци",
+    "lat": 41.9954394,
+    "lng": 21.430426,
+    "source": "OSM",
     "verified": false
   },
   {
-    "id": "v-0006",
-    "name": "Е-игри „Лаки Спин“ (пример)",
-    "kind": "electronic_games",
-    "operator": "Пример Дигитал ДОО Скопје",
-    "licenseNo": "УП 11-666/2024",
-    "lat": 42.0095,
-    "lng": 21.3935,
-    "municipality": "Карпош",
-    "address": "ул. Пример бр. 6, Скопје",
-    "source": "Тест податоци",
+    "id": "osm-w-1334497176",
+    "name": "Астра Казино",
+    "kind": "casino",
+    "lat": 41.9163331,
+    "lng": 20.9417038,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5055432424",
+    "name": "Д слотс",
+    "kind": "casino",
+    "lat": 42.079176,
+    "lng": 22.1816694,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-8910427387",
+    "name": "Евротип",
+    "kind": "betting_shop",
+    "lat": 41.0282534,
+    "lng": 21.3372384,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173244013",
+    "name": "Евротип",
+    "kind": "automat_club",
+    "lat": 41.1245282,
+    "lng": 20.8117318,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10203858690",
+    "name": "Евротип",
+    "kind": "betting_shop",
+    "lat": 41.1765103,
+    "lng": 20.6763328,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11307055999",
+    "name": "Евротип 1",
+    "kind": "betting_shop",
+    "lat": 41.0319529,
+    "lng": 21.3347548,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10209378794",
+    "name": "Еуротип",
+    "kind": "betting_shop",
+    "lat": 41.796462,
+    "lng": 20.9109119,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6820837985",
+    "name": "Златна Копачка",
+    "kind": "automat_club",
+    "lat": 41.9936306,
+    "lng": 21.4360366,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10177808919",
+    "name": "Златна Копачка",
+    "kind": "automat_club",
+    "lat": 41.9943986,
+    "lng": 21.4031837,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12376343997",
+    "name": "Златна Копачка",
+    "kind": "betting_shop",
+    "lat": 41.9871105,
+    "lng": 21.4625943,
+    "municipality": "Cкoпje",
+    "address": "Булевар Јане Сандански бр. 24, Cкoпje",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11532129353",
+    "name": "Златна копчка (ченто)",
+    "kind": "betting_shop",
+    "lat": 42.0075147,
+    "lng": 21.5027965,
+    "municipality": "Скопје",
+    "address": "Скопје",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4281623890",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.1130024,
+    "lng": 20.8017871,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4356217190",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.7383003,
+    "lng": 22.1949766,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4356305289",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.7384527,
+    "lng": 22.1961735,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4360803292",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.7371745,
+    "lng": 22.1921393,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4363539889",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.7375115,
+    "lng": 22.1902791,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4411088898",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.0289557,
+    "lng": 21.3357312,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054032915",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9987688,
+    "lng": 21.4235372,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054048704",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9993227,
+    "lng": 21.438589,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054048712",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 42.0043198,
+    "lng": 21.3840568,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054048717",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9980393,
+    "lng": 21.424366,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054049786",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9971812,
+    "lng": 21.4273087,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054049797",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9952638,
+    "lng": 21.4235236,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054049807",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9963038,
+    "lng": 21.4284562,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6079524216",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 42.0245494,
+    "lng": 22.5879347,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-8909816036",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.0277413,
+    "lng": 21.3363481,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-8917359379",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.0313378,
+    "lng": 21.3330311,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216347",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 42.0066408,
+    "lng": 21.3619803,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10211871901",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 42.0547537,
+    "lng": 21.3773131,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11899331751",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9375318,
+    "lng": 21.520867,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-181361249",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.1857031,
+    "lng": 22.7219932,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-983122126",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9831778,
+    "lng": 21.4392449,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1312338837",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9401768,
+    "lng": 21.51426,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1312338869",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9381258,
+    "lng": 21.5170965,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1464176696",
+    "name": "Казино (без име)",
+    "kind": "casino",
+    "lat": 41.9955325,
+    "lng": 21.4768719,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-227416926",
+    "name": "Казино Мотел Сенатор",
+    "kind": "casino",
+    "lat": 41.1463927,
+    "lng": 22.5263351,
+    "municipality": "Гевгелија",
+    "address": "Вардарски Рид бр. бб, Гевгелија",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6812666805",
+    "name": "Казино Сенатор",
+    "kind": "casino",
+    "lat": 42.0000784,
+    "lng": 21.4271346,
+    "municipality": "Cкoпje",
+    "address": "Cкoпje",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12212434284",
+    "name": "Казино Фламинго Скопје",
+    "kind": "casino",
+    "lat": 41.9960319,
+    "lng": 21.4307798,
+    "municipality": "Cкoпje",
+    "address": "Максим Горки бр. 7, Cкoпje",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-1615854393",
+    "name": "клуб Астра",
+    "kind": "casino",
+    "lat": 42.003599,
+    "lng": 21.3985653,
+    "municipality": "Cкoпje",
+    "address": "Cкoпje",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5869298786",
+    "name": "Моцарт",
+    "kind": "betting_shop",
+    "lat": 42.206988,
+    "lng": 22.3361758,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9567114576",
+    "name": "Обложувалница Sport Life",
+    "kind": "betting_shop",
+    "lat": 41.8648611,
+    "lng": 21.9408472,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-180455564",
+    "name": "Принцес Казино",
+    "kind": "casino",
+    "lat": 41.1404653,
+    "lng": 22.5400317,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054048491",
+    "name": "Сенатор",
+    "kind": "casino",
+    "lat": 41.9975826,
+    "lng": 21.4242615,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-8910483065",
+    "name": "Сенатор",
+    "kind": "casino",
+    "lat": 41.0282694,
+    "lng": 21.3372875,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-180455562",
+    "name": "Хотел Рамада Плаза",
+    "kind": "casino",
+    "lat": 41.1406613,
+    "lng": 22.5399716,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9124373622",
+    "name": "Чудна шума",
+    "kind": "betting_shop",
+    "lat": 41.9957375,
+    "lng": 21.4143191,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5344777679",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 42.0072989,
+    "lng": 21.3715093,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5790395955",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 41.5126709,
+    "lng": 20.9631584,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054034632",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 41.9988629,
+    "lng": 21.4232956,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216333",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 41.1169374,
+    "lng": 20.8011925,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10195320041",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 41.994019,
+    "lng": 21.4164398,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10203858692",
+    "name": "Admiral",
+    "kind": "casino",
+    "lat": 41.176637,
+    "lng": 20.6759482,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10209378800",
+    "name": "Admiral",
+    "kind": "automat_club",
+    "lat": 41.796536,
+    "lng": 20.9144197,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10211871860",
+    "name": "Admiral",
+    "kind": "automat_club",
+    "lat": 42.14044,
+    "lng": 21.71922,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10211871899",
+    "name": "Admiral",
+    "kind": "automat_club",
+    "lat": 42.018258,
+    "lng": 21.4097806,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6821158585",
+    "name": "Apex",
+    "kind": "casino",
+    "lat": 41.9951324,
+    "lng": 21.4325014,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200215928",
+    "name": "Apex",
+    "kind": "casino",
+    "lat": 41.9880034,
+    "lng": 21.4364245,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10202842071",
+    "name": "Apex",
+    "kind": "casino",
+    "lat": 41.177865,
+    "lng": 20.6782481,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12222295024",
+    "name": "Apex",
+    "kind": "casino",
+    "lat": 41.9985122,
+    "lng": 21.4247042,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12750055210",
+    "name": "APEX",
+    "kind": "casino",
+    "operator": "ДТУ АПЕКС МК ДОО",
+    "lat": 41.9391025,
+    "lng": 21.5156312,
+    "municipality": "Драчево",
+    "address": "Иван Хаџиниколов бр. 8, Драчево",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10916578512",
+    "name": "Apex Casino",
+    "kind": "casino",
+    "lat": 41.9854986,
+    "lng": 21.4669788,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4437622042",
+    "name": "Apollonia Casino",
+    "kind": "casino",
+    "lat": 41.1411241,
+    "lng": 22.503936,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6258693385",
+    "name": "Astra",
+    "kind": "casino",
+    "lat": 42.0010232,
+    "lng": 21.4127132,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-410064786",
+    "name": "Astra",
+    "kind": "casino",
+    "lat": 41.9954327,
+    "lng": 21.4094671,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-305388567",
+    "name": "Astra Club",
+    "kind": "casino",
+    "lat": 41.1153402,
+    "lng": 20.800496,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054048489",
+    "name": "Astral casino",
+    "kind": "casino",
+    "lat": 41.9998538,
+    "lng": 21.4159092,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12758331211",
+    "name": "Astral Casino",
+    "kind": "casino",
+    "lat": 42.0020725,
+    "lng": 21.4005999,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1334317359",
+    "name": "Astral Casino",
+    "kind": "casino",
+    "lat": 42.0084522,
+    "lng": 20.9744835,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-529808093",
+    "name": "Atlantic",
+    "kind": "casino",
+    "lat": 41.4339118,
+    "lng": 22.0113129,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10203858700",
+    "name": "Bet Arena",
+    "kind": "betting_shop",
+    "lat": 41.1765254,
+    "lng": 20.6759512,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173264240",
+    "name": "Bet&Get",
+    "kind": "automat_club",
+    "lat": 41.1241408,
+    "lng": 20.8119766,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173275718",
+    "name": "Betarena",
+    "kind": "automat_club",
+    "lat": 41.1242528,
+    "lng": 20.8119133,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1464176697",
+    "name": "Casino City Club - Godi",
+    "kind": "casino",
+    "lat": 41.9953427,
+    "lng": 21.476316,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-306911904",
+    "name": "Casino King's Club",
+    "kind": "casino",
+    "lat": 41.1705935,
+    "lng": 22.7476355,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10198287818",
+    "name": "Club Admiral",
+    "kind": "casino",
+    "lat": 41.990761,
+    "lng": 21.4454859,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9161043718",
+    "name": "Emperyal",
+    "kind": "casino",
+    "lat": 41.1134782,
+    "lng": 20.8013803,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10202493102",
+    "name": "Emperyal",
+    "kind": "automat_club",
+    "lat": 41.1782698,
+    "lng": 20.6762841,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4327921318",
+    "name": "Evrotip",
+    "kind": "betting_shop",
+    "lat": 42.0034137,
+    "lng": 21.3986642,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10209378795",
+    "name": "Gold",
+    "kind": "automat_club",
+    "lat": 41.796462,
+    "lng": 20.9110352,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173451385",
+    "name": "Gold Slot Club",
+    "kind": "automat_club",
+    "lat": 41.1123068,
+    "lng": 20.8024404,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11276711866",
+    "name": "Gold Slot Club",
+    "kind": "automat_club",
+    "operator": "KS77",
+    "lat": 41.0323659,
+    "lng": 21.3419969,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-181363054",
+    "name": "King Slot Casino",
+    "kind": "casino",
+    "lat": 41.1856686,
+    "lng": 22.7221083,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4594432345",
+    "name": "Le Grand Casino",
+    "kind": "casino",
+    "lat": 41.994873,
+    "lng": 21.4359281,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1500626462",
+    "name": "Luxor Casino & Hotel",
+    "kind": "casino",
+    "lat": 42.1333711,
+    "lng": 21.3082108,
+    "municipality": "Блаце",
+    "address": "Блаце",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12015514090",
+    "name": "Maktriks",
+    "kind": "casino",
+    "lat": 41.1133266,
+    "lng": 20.8017728,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4267660931",
+    "name": "Marbet",
+    "kind": "betting_shop",
+    "lat": 42.0048718,
+    "lng": 20.9900766,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10204019538",
+    "name": "Marbet",
+    "kind": "betting_shop",
+    "lat": 41.1741743,
+    "lng": 20.6801345,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6814247287",
+    "name": "Maxbet",
+    "kind": "betting_shop",
+    "lat": 41.9956039,
+    "lng": 21.4261917,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-w-1359827564",
+    "name": "Monaco Kazzino",
+    "kind": "casino",
+    "lat": 41.1713348,
+    "lng": 22.7408677,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6834500687",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.1093236,
+    "lng": 20.8111031,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216564",
+    "name": "Mozzart",
+    "kind": "casino",
+    "lat": 41.9888391,
+    "lng": 21.4364135,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216568",
+    "name": "Mozzart",
+    "kind": "casino",
+    "lat": 42.0004527,
+    "lng": 21.4124568,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216719",
+    "name": "Mozzart",
+    "kind": "casino",
+    "lat": 41.9980552,
+    "lng": 21.4242266,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12758331214",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.0030515,
+    "lng": 21.3931372,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872585700",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9940899,
+    "lng": 21.432116,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686401",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9957405,
+    "lng": 21.501022,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686402",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.0150503,
+    "lng": 21.4439315,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686403",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9846921,
+    "lng": 21.4552688,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686404",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.98227,
+    "lng": 21.48253,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686405",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9929796,
+    "lng": 21.4403075,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686406",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.98045,
+    "lng": 21.46045,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686407",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.0325161,
+    "lng": 21.4440921,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686408",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9165971,
+    "lng": 22.4099556,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686409",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.0091626,
+    "lng": 20.9759608,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686410",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.1143037,
+    "lng": 20.8015716,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686411",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.0377,
+    "lng": 21.345824,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686412",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.7933505,
+    "lng": 20.9092918,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686413",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.02721,
+    "lng": 21.31384,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686414",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.7914927,
+    "lng": 20.9076718,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12872686415",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.1776203,
+    "lng": 20.6827632,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831728",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.3473948,
+    "lng": 21.5567261,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831729",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.0402535,
+    "lng": 21.3950855,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831730",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.143502,
+    "lng": 22.502982,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831731",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9833896,
+    "lng": 21.4395666,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831732",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 42.1370869,
+    "lng": 21.7176426,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831733",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.9972196,
+    "lng": 20.9608948,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831734",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.6324568,
+    "lng": 22.4637419,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13271831735",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.7423931,
+    "lng": 22.1927986,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-13304196444",
+    "name": "Mozzart",
+    "kind": "betting_shop",
+    "lat": 41.7983296,
+    "lng": 20.9140715,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5242828728",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 42.0032317,
+    "lng": 21.4081008,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5318299749",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 41.9672591,
+    "lng": 22.7745815,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5344777680",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 42.0074885,
+    "lng": 21.3713009,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10177776266",
+    "name": "Mozzart Bet",
+    "kind": "automat_club",
+    "lat": 41.9944477,
+    "lng": 21.4031966,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10202493089",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 41.1774241,
+    "lng": 20.6732508,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10203858684",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 41.1763085,
+    "lng": 20.6759537,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10209378796",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 41.796462,
+    "lng": 20.9111334,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11487095133",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 42.0034317,
+    "lng": 21.3975203,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12312249877",
+    "name": "Mozzart Bet",
+    "kind": "betting_shop",
+    "lat": 42.0776781,
+    "lng": 22.181626,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-529808066",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 41.4357199,
+    "lng": 22.0110468,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-5344777682",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 42.0079507,
+    "lng": 21.3696473,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6054049810",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 42.0002627,
+    "lng": 21.4162338,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6821158693",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 41.9949915,
+    "lng": 21.4311478,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9161043719",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 41.1130157,
+    "lng": 20.8015731,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9200216068",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 41.9883882,
+    "lng": 21.4366456,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11246139003",
+    "name": "Senator",
+    "kind": "automat_club",
+    "lat": 41.7964447,
+    "lng": 20.9106145,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11275585240",
+    "name": "Senator",
+    "kind": "automat_club",
+    "lat": 41.9854231,
+    "lng": 21.4381294,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12059757239",
+    "name": "Senator",
+    "kind": "casino",
+    "lat": 42.0034247,
+    "lng": 21.3993746,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12216569178",
+    "name": "Senator",
+    "kind": "automat_club",
+    "lat": 41.9996062,
+    "lng": 21.4364423,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4881325494",
+    "name": "Senator Jackpot",
+    "kind": "casino",
+    "operator": "senator",
+    "lat": 42.0061879,
+    "lng": 21.4062967,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6814246722",
+    "name": "Sport life",
+    "kind": "betting_shop",
+    "lat": 41.9997139,
+    "lng": 21.4372837,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6837039800",
+    "name": "Sport life",
+    "kind": "betting_shop",
+    "lat": 41.1176628,
+    "lng": 20.815584,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-8908302075",
+    "name": "Sport life",
+    "kind": "betting_shop",
+    "lat": 41.0265417,
+    "lng": 21.3367894,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4130738812",
+    "name": "Sport Life",
+    "kind": "betting_shop",
+    "operator": "Спорт-Лаиф Трејд ДОО Скопје",
+    "lat": 41.9995207,
+    "lng": 21.3918014,
+    "municipality": "Cкoпje",
+    "address": "Cкoпje",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173277352",
+    "name": "Sport Life",
+    "kind": "automat_club",
+    "lat": 41.1244899,
+    "lng": 20.8121092,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10203858679",
+    "name": "Sport Life",
+    "kind": "betting_shop",
+    "lat": 41.1757668,
+    "lng": 20.6760321,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-11532129364",
+    "name": "Sport Life",
+    "kind": "betting_shop",
+    "lat": 42.0058221,
+    "lng": 21.5034024,
+    "municipality": "Скопје",
+    "address": "Скопје",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12316305370",
+    "name": "Sport Life",
+    "kind": "betting_shop",
+    "lat": 42.0779221,
+    "lng": 22.1814159,
+    "municipality": "Кратово",
+    "address": "Питу Гули бр. 20, Кратово",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10202493059",
+    "name": "Sport Lufe",
+    "kind": "betting_shop",
+    "lat": 41.1770874,
+    "lng": 20.6730084,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4990142142",
+    "name": "Sportlife",
+    "kind": "casino",
+    "lat": 42.0591176,
+    "lng": 21.4512951,
+    "address": "Радишанска",
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4990148632",
+    "name": "Sportlife",
+    "kind": "casino",
+    "lat": 41.9960148,
+    "lng": 21.4092857,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-6837039796",
+    "name": "Sportlife",
+    "kind": "betting_shop",
+    "lat": 41.1134879,
+    "lng": 20.816241,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-989142840",
+    "name": "Square pub",
+    "kind": "automat_club",
+    "lat": 41.7382806,
+    "lng": 22.1942983,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10211871900",
+    "name": "Star",
+    "kind": "casino",
+    "lat": 42.03591,
+    "lng": 21.39971,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-9025119026",
+    "name": "Synotip club",
+    "kind": "casino",
+    "lat": 41.3677232,
+    "lng": 21.2484906,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-12588665305",
+    "name": "Synottip Club",
+    "kind": "casino",
+    "lat": 41.7728957,
+    "lng": 22.1405593,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10173461455",
+    "name": "VLT Jackpot",
+    "kind": "automat_club",
+    "lat": 41.1124345,
+    "lng": 20.8025554,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-10184021892",
+    "name": "VLT Jackpot",
+    "kind": "automat_club",
+    "lat": 41.9941239,
+    "lng": 21.4010265,
+    "source": "OSM",
+    "verified": false
+  },
+  {
+    "id": "osm-n-4990142140",
+    "name": "Zlatna Kopacka",
+    "kind": "casino",
+    "lat": 41.9958867,
+    "lng": 21.4087335,
+    "source": "OSM",
     "verified": false
   }
 ]
