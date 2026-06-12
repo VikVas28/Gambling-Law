@@ -4,7 +4,8 @@
 //
 // Употреба:  node scripts/fetch-osm.mjs
 
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
+import * as turf from "@turf/turf";
 
 const ENDPOINTS = [
   "https://overpass-api.de/api/interpreter",
@@ -103,8 +104,10 @@ function address(tags) {
 function schoolType(tags) {
   const isced = String(tags["isced:level"] ?? "");
   if (isced && /[34]/.test(isced) && !/[12]/.test(isced)) return "secondary";
-  const name = (tags.name ?? tags["name:mk"] ?? "").toLowerCase();
-  if (/соу|сугс|сосу|ссоу|асуц|гимназ|средно|high school/.test(name)) {
+  const raw = (tags.name ?? tags["name:mk"] ?? "").toLowerCase();
+  // Точки и празни места се игнорираат: „С.У.Г.С.“ = „СУГС“, „П.С.У.“ = „ПСУ“
+  const compact = raw.replace(/[^a-zа-џѐѝ]+/giu, "");
+  if (/угс|соу|сосу|ссоу|асуц|псу|дсу|гимназ|средно|highschool/.test(compact)) {
     return "secondary";
   }
   return "primary";
@@ -228,6 +231,29 @@ let venues = venueElements
   })
   .filter(Boolean);
 venues = dedupe(venues, 100).sort((a, b) => a.name.localeCompare(b.name, "mk"));
+
+// Реална општина по координати (точка-во-полигон), ако постојат локални
+// граници од scripts/fetch-municipalities.mjs.
+try {
+  const fc = JSON.parse(
+    await readFile(
+      new URL("../public/data/municipalities.geojson", import.meta.url),
+      "utf8",
+    ),
+  );
+  for (const list of [schools, venues]) {
+    for (const item of list) {
+      const pt = turf.point([item.lng, item.lat]);
+      const hit = fc.features.find((f) => turf.booleanPointInPolygon(pt, f));
+      if (hit?.properties?.name) item.municipality = hit.properties.name;
+    }
+  }
+  console.log("Доделени реални општини од municipalities.geojson.");
+} catch {
+  console.warn(
+    "municipalities.geojson не постои — општините остануваат од OSM адресите.",
+  );
+}
 
 await writeFile(
   new URL("../public/data/schools.json", import.meta.url),

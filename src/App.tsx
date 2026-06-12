@@ -4,7 +4,12 @@ import MapView from "./components/MapView";
 import Sidebar from "./components/Sidebar";
 import Legend from "./components/Legend";
 import { classifyAll, type ClassifiedVenue } from "./lib/compliance";
-import { DEFAULT_FILTERS, type FiltersState } from "./lib/filters";
+import {
+  DEFAULT_FILTERS,
+  SKOPJE_ALL,
+  SKOPJE_MUNICIPALITIES,
+  type FiltersState,
+} from "./lib/filters";
 import type { School, Status, Venue } from "./lib/types";
 
 export default function App() {
@@ -74,7 +79,11 @@ export default function App() {
     return classified.filter((c) => {
       const v = c.venue;
       if (!filters.kinds[v.kind]) return false;
-      if (
+      if (filters.municipality === SKOPJE_ALL) {
+        if (!v.municipality || !SKOPJE_MUNICIPALITIES.has(v.municipality)) {
+          return false;
+        }
+      } else if (
         filters.municipality !== "all" &&
         v.municipality !== filters.municipality
       ) {

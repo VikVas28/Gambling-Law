@@ -1,6 +1,10 @@
 import { KIND_LABELS, SCHOOL_COLORS } from "../lib/compliance";
 import type { SchoolType, VenueKind } from "../lib/types";
-import type { FiltersState } from "../lib/filters";
+import {
+  SKOPJE_ALL,
+  SKOPJE_MUNICIPALITIES,
+  type FiltersState,
+} from "../lib/filters";
 
 const KINDS: VenueKind[] = [
   "casino",
@@ -43,11 +47,14 @@ function CheckRow({
 }
 
 export default function Filters({ filters, municipalities, onChange }: Props) {
+  const skopje = municipalities.filter((m) => SKOPJE_MUNICIPALITIES.has(m));
+  const others = municipalities.filter((m) => !SKOPJE_MUNICIPALITIES.has(m));
+
   return (
     <div className="space-y-3">
       <label className="block">
         <span className="mb-1 block text-sm font-medium text-slate-200">
-          Пребарај по име
+          Пребарај објект за игри на среќа
         </span>
         <input
           type="search"
@@ -70,11 +77,25 @@ export default function Filters({ filters, municipalities, onChange }: Props) {
           className="w-full rounded-lg border border-slate-600 bg-slate-800 px-3 py-2.5 text-[15px] text-slate-100"
         >
           <option value="all">Сите општини</option>
-          {municipalities.map((m) => (
-            <option key={m} value={m}>
-              {m}
-            </option>
-          ))}
+          {skopje.length > 0 && (
+            <optgroup label="Скопје">
+              <option value={SKOPJE_ALL}>Цело Скопје</option>
+              {skopje.map((m) => (
+                <option key={m} value={m}>
+                  {m}
+                </option>
+              ))}
+            </optgroup>
+          )}
+          {others.length > 0 && (
+            <optgroup label="Други градови и општини">
+              {others.map((m) => (
+                <option key={m} value={m}>
+                  {m}
+                </option>
+              ))}
+            </optgroup>
+          )}
         </select>
       </label>
 

@@ -5,8 +5,8 @@
     "type": "primary",
     "lat": 42.1387934,
     "lng": 21.7159218,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4502463692",
@@ -14,9 +14,9 @@
     "type": "primary",
     "lat": 41.9233035,
     "lng": 20.9164487,
+    "municipality": "Боговиње",
     "address": "102",
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "source": "OSM"
   },
   {
     "id": "osm-w-190034508",
@@ -24,8 +24,8 @@
     "type": "secondary",
     "lat": 42.0016134,
     "lng": 21.4754764,
-    "source": "OSM",
-    "municipality": "Гази Баба"
+    "municipality": "Гази Баба",
+    "source": "OSM"
   },
   {
     "id": "osm-w-453039671",
@@ -33,8 +33,8 @@
     "type": "primary",
     "lat": 41.9817422,
     "lng": 21.041097,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-433012216",
@@ -42,8 +42,8 @@
     "type": "primary",
     "lat": 41.1416753,
     "lng": 21.433271,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1322998038",
@@ -51,8 +51,8 @@
     "type": "primary",
     "lat": 41.2678034,
     "lng": 21.0807687,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4161457892",
@@ -70,8 +70,8 @@
     "type": "primary",
     "lat": 41.4368796,
     "lng": 22.6408215,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1480425895",
@@ -79,8 +79,8 @@
     "type": "secondary",
     "lat": 41.4340169,
     "lng": 22.008181,
-    "source": "OSM",
-    "municipality": "Кавадарци"
+    "municipality": "Кавадарци",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1477867749",
@@ -88,8 +88,8 @@
     "type": "secondary",
     "lat": 41.7175149,
     "lng": 21.7731668,
-    "source": "OSM",
-    "municipality": "Велес"
+    "municipality": "Велес",
+    "source": "OSM"
   },
   {
     "id": "osm-w-439111146",
@@ -97,8 +97,8 @@
     "type": "secondary",
     "lat": 41.7360983,
     "lng": 22.1922463,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-156845666",
@@ -106,8 +106,8 @@
     "type": "primary",
     "lat": 42.1318883,
     "lng": 21.7217365,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-390432729",
@@ -115,8 +115,8 @@
     "type": "primary",
     "lat": 41.1138095,
     "lng": 20.8059333,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1332570163",
@@ -134,17 +134,17 @@
     "type": "primary",
     "lat": 41.9757689,
     "lng": 21.4411963,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-284743279",
     "name": "ДСУ Димитар Влахов",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9853253,
     "lng": 21.4458969,
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "municipality": "Аеродром",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177405949",
@@ -152,8 +152,8 @@
     "type": "primary",
     "lat": 42.0029159,
     "lng": 21.4817811,
-    "source": "OSM",
-    "municipality": "Гази Баба"
+    "municipality": "Гази Баба",
+    "source": "OSM"
   },
   {
     "id": "osm-w-508255444",
@@ -161,8 +161,8 @@
     "type": "primary",
     "lat": 42.1291087,
     "lng": 21.7170495,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175896358",
@@ -170,8 +170,8 @@
     "type": "primary",
     "lat": 42.0230019,
     "lng": 21.4354433,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2406054230",
@@ -179,8 +179,8 @@
     "type": "primary",
     "lat": 41.4392441,
     "lng": 22.6466275,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-n-5554568424",
@@ -188,9 +188,9 @@
     "type": "primary",
     "lat": 42.1230263,
     "lng": 21.7321995,
+    "municipality": "Куманово",
     "address": "Dragan Stoparevic бр. 94a",
-    "source": "OSM",
-    "municipality": "Куманово"
+    "source": "OSM"
   },
   {
     "id": "osm-w-477325820",
@@ -198,8 +198,8 @@
     "type": "primary",
     "lat": 42.0006861,
     "lng": 21.4221375,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-416906714",
@@ -207,8 +207,8 @@
     "type": "primary",
     "lat": 41.7314139,
     "lng": 22.1750642,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1752188289",
@@ -216,8 +216,8 @@
     "type": "primary",
     "lat": 41.9967522,
     "lng": 21.4073092,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-507592933",
@@ -225,8 +225,8 @@
     "type": "primary",
     "lat": 42.1291649,
     "lng": 21.7164504,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-152627805",
@@ -234,9 +234,9 @@
     "type": "primary",
     "lat": 42.1327192,
     "lng": 21.7195905,
+    "municipality": "Куманово",
     "address": "Народна Револуција бр. 43",
-    "source": "OSM",
-    "municipality": "Куманово"
+    "source": "OSM"
   },
   {
     "id": "osm-n-13117107882",
@@ -244,8 +244,8 @@
     "type": "primary",
     "lat": 42.1327033,
     "lng": 21.719034,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-440567705",
@@ -253,8 +253,8 @@
     "type": "primary",
     "lat": 41.3315928,
     "lng": 21.3904339,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2406043244",
@@ -262,8 +262,8 @@
     "type": "primary",
     "lat": 41.4335818,
     "lng": 22.6362779,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-w-122868894",
@@ -301,8 +301,8 @@
     "type": "primary",
     "lat": 41.7185645,
     "lng": 21.7828867,
-    "source": "OSM",
-    "municipality": "Велес"
+    "municipality": "Велес",
+    "source": "OSM"
   },
   {
     "id": "osm-n-553868046",
@@ -310,8 +310,8 @@
     "type": "primary",
     "lat": 41.9983639,
     "lng": 21.4355617,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-n-6357256985",
@@ -319,9 +319,9 @@
     "type": "primary",
     "lat": 41.7936137,
     "lng": 20.9008852,
+    "municipality": "Гостивар",
     "address": "Pavle Avramoski бр. 52",
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "source": "OSM"
   },
   {
     "id": "osm-w-232349713",
@@ -329,8 +329,8 @@
     "type": "secondary",
     "lat": 41.439987,
     "lng": 22.6370049,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-w-905876264",
@@ -338,8 +338,8 @@
     "type": "primary",
     "lat": 41.3660832,
     "lng": 20.6487481,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2406054227",
@@ -347,8 +347,8 @@
     "type": "primary",
     "lat": 41.4295445,
     "lng": 22.6488595,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-w-174342545",
@@ -356,8 +356,8 @@
     "type": "primary",
     "lat": 42.0623645,
     "lng": 21.4521691,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-w-828220333",
@@ -365,9 +365,9 @@
     "type": "primary",
     "lat": 41.5189267,
     "lng": 20.9575729,
+    "municipality": "Кичево",
     "address": "11 Септември",
-    "source": "OSM",
-    "municipality": "Кичево"
+    "source": "OSM"
   },
   {
     "id": "osm-n-850990939",
@@ -375,8 +375,8 @@
     "type": "primary",
     "lat": 41.9930543,
     "lng": 21.581798,
-    "source": "OSM",
-    "municipality": "Илинден"
+    "municipality": "Илинден",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1361728259",
@@ -384,8 +384,8 @@
     "type": "primary",
     "lat": 41.521664,
     "lng": 20.5256326,
-    "source": "OSM",
-    "municipality": "Дебар"
+    "municipality": "Дебар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1518687680",
@@ -393,8 +393,8 @@
     "type": "primary",
     "lat": 41.5266852,
     "lng": 20.5195538,
-    "source": "OSM",
-    "municipality": "Дебар"
+    "municipality": "Дебар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-284497939",
@@ -402,8 +402,8 @@
     "type": "primary",
     "lat": 41.9793878,
     "lng": 21.471096,
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "municipality": "Аеродром",
+    "source": "OSM"
   },
   {
     "id": "osm-r-9789012",
@@ -411,8 +411,8 @@
     "type": "primary",
     "lat": 41.7161279,
     "lng": 21.7750425,
-    "source": "OSM",
-    "municipality": "Велес"
+    "municipality": "Велес",
+    "source": "OSM"
   },
   {
     "id": "osm-w-284497895",
@@ -430,8 +430,8 @@
     "type": "primary",
     "lat": 42.0178599,
     "lng": 21.3547045,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-914465149",
@@ -439,8 +439,8 @@
     "type": "primary",
     "lat": 41.343582,
     "lng": 21.5539975,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1947769757",
@@ -448,8 +448,8 @@
     "type": "primary",
     "lat": 41.9185555,
     "lng": 22.4134704,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-n-478708631",
@@ -457,8 +457,8 @@
     "type": "primary",
     "lat": 41.708332,
     "lng": 22.8556699,
-    "source": "OSM",
-    "municipality": "Берово"
+    "municipality": "Берово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-284540689",
@@ -476,8 +476,8 @@
     "type": "primary",
     "lat": 42.0007835,
     "lng": 21.3940669,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-839153503",
@@ -495,8 +495,8 @@
     "type": "primary",
     "lat": 42.0401876,
     "lng": 21.445394,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175451781",
@@ -524,8 +524,8 @@
     "type": "primary",
     "lat": 41.3512584,
     "lng": 21.5371492,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-579386164",
@@ -543,8 +543,8 @@
     "type": "primary",
     "lat": 41.0408611,
     "lng": 21.0046907,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1332488595",
@@ -552,8 +552,8 @@
     "type": "primary",
     "lat": 41.1708872,
     "lng": 21.4811274,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1448982621",
@@ -561,8 +561,8 @@
     "type": "primary",
     "lat": 41.1492401,
     "lng": 20.8310795,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1047603395",
@@ -570,8 +570,8 @@
     "type": "primary",
     "lat": 41.4775057,
     "lng": 21.3140552,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-r-2434814",
@@ -609,8 +609,8 @@
     "type": "primary",
     "lat": 41.4198662,
     "lng": 22.0175864,
-    "source": "OSM",
-    "municipality": "Кавадарци"
+    "municipality": "Кавадарци",
+    "source": "OSM"
   },
   {
     "id": "osm-w-478124628",
@@ -618,8 +618,8 @@
     "type": "primary",
     "lat": 41.7506585,
     "lng": 22.2026121,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-915203317",
@@ -627,8 +627,8 @@
     "type": "primary",
     "lat": 41.3530937,
     "lng": 21.552199,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-828216346",
@@ -636,8 +636,8 @@
     "type": "primary",
     "lat": 41.5041768,
     "lng": 20.9600529,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188629",
@@ -665,8 +665,8 @@
     "type": "primary",
     "lat": 41.2182684,
     "lng": 21.2032238,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1332488618",
@@ -704,8 +704,8 @@
     "type": "primary",
     "lat": 42.023868,
     "lng": 21.5602466,
-    "source": "OSM",
-    "municipality": "Арачиново"
+    "municipality": "Арачиново",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1092272161",
@@ -713,8 +713,8 @@
     "type": "primary",
     "lat": 42.0079392,
     "lng": 21.336869,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1055341011",
@@ -722,8 +722,8 @@
     "type": "primary",
     "lat": 41.4517918,
     "lng": 21.3763143,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175912102",
@@ -741,8 +741,8 @@
     "type": "primary",
     "lat": 41.2784576,
     "lng": 21.3646053,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-579708241",
@@ -750,8 +750,8 @@
     "type": "primary",
     "lat": 41.1751285,
     "lng": 20.6691118,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4701925194",
@@ -759,9 +759,9 @@
     "type": "primary",
     "lat": 41.6268908,
     "lng": 22.5151443,
+    "municipality": "Радовиш",
     "address": "Ораовица",
-    "source": "OSM",
-    "municipality": "Радовиш"
+    "source": "OSM"
   },
   {
     "id": "osm-w-899660530",
@@ -769,8 +769,8 @@
     "type": "primary",
     "lat": 41.2128944,
     "lng": 21.4985384,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-35158196",
@@ -778,8 +778,8 @@
     "type": "primary",
     "lat": 41.5118297,
     "lng": 21.2158769,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-915207488",
@@ -807,8 +807,8 @@
     "type": "primary",
     "lat": 41.9662988,
     "lng": 20.9825696,
-    "source": "OSM",
-    "municipality": "Брвеница"
+    "municipality": "Брвеница",
+    "source": "OSM"
   },
   {
     "id": "osm-w-412315745",
@@ -816,8 +816,8 @@
     "type": "primary",
     "lat": 40.9523533,
     "lng": 21.3595993,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1517855534",
@@ -835,8 +835,8 @@
     "type": "primary",
     "lat": 41.508851,
     "lng": 20.9557623,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177490044",
@@ -874,8 +874,8 @@
     "type": "primary",
     "lat": 41.7812604,
     "lng": 21.9024697,
-    "source": "OSM",
-    "municipality": "Лозово"
+    "municipality": "Лозово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054290171",
@@ -883,8 +883,8 @@
     "type": "primary",
     "lat": 41.446117,
     "lng": 21.3195714,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312575140",
@@ -902,8 +902,8 @@
     "type": "primary",
     "lat": 41.8378747,
     "lng": 20.9775224,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188637",
@@ -921,8 +921,8 @@
     "type": "primary",
     "lat": 41.3476578,
     "lng": 21.560975,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-414243515",
@@ -940,8 +940,8 @@
     "type": "primary",
     "lat": 41.3380638,
     "lng": 21.3310973,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1448574312",
@@ -949,8 +949,8 @@
     "type": "primary",
     "lat": 41.269456,
     "lng": 20.5960216,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-859029872",
@@ -968,8 +968,8 @@
     "type": "primary",
     "lat": 41.0275757,
     "lng": 21.3263744,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-w-38071329",
@@ -987,8 +987,8 @@
     "type": "primary",
     "lat": 41.9805271,
     "lng": 21.4449929,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312594766",
@@ -996,8 +996,8 @@
     "type": "primary",
     "lat": 41.4414375,
     "lng": 20.5978752,
-    "source": "OSM",
-    "municipality": "Центар Жупа"
+    "municipality": "Центар Жупа",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1056280412",
@@ -1015,8 +1015,8 @@
     "type": "primary",
     "lat": 41.0258381,
     "lng": 21.3437856,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-w-816784591",
@@ -1024,8 +1024,8 @@
     "type": "primary",
     "lat": 41.5165734,
     "lng": 21.9443785,
-    "source": "OSM",
-    "municipality": "Росоман"
+    "municipality": "Росоман",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175892208",
@@ -1053,8 +1053,8 @@
     "type": "primary",
     "lat": 41.4259226,
     "lng": 21.4533306,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1314608810",
@@ -1062,8 +1062,8 @@
     "type": "primary",
     "lat": 41.5980785,
     "lng": 20.9553406,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188604",
@@ -1091,8 +1091,8 @@
     "type": "primary",
     "lat": 41.2067419,
     "lng": 20.6792157,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188613",
@@ -1110,8 +1110,8 @@
     "type": "primary",
     "lat": 41.020618,
     "lng": 21.0511209,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054082248",
@@ -1119,8 +1119,8 @@
     "type": "primary",
     "lat": 41.4209164,
     "lng": 21.2790713,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899641936",
@@ -1128,8 +1128,8 @@
     "type": "primary",
     "lat": 41.1771977,
     "lng": 21.8262467,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175428047",
@@ -1147,8 +1147,8 @@
     "type": "primary",
     "lat": 41.3374455,
     "lng": 21.4627575,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188593",
@@ -1186,8 +1186,8 @@
     "type": "primary",
     "lat": 41.8062558,
     "lng": 20.9336157,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-922175325",
@@ -1215,9 +1215,9 @@
     "type": "secondary",
     "lat": 41.1128346,
     "lng": 20.8077376,
+    "municipality": "Охрид",
     "address": "Димитар Влахов бр. 71",
-    "source": "OSM",
-    "municipality": "Охрид"
+    "source": "OSM"
   },
   {
     "id": "osm-n-547076356",
@@ -1225,8 +1225,8 @@
     "type": "primary",
     "lat": 42.0101321,
     "lng": 20.9800652,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-572339608",
@@ -1234,9 +1234,9 @@
     "type": "primary",
     "lat": 41.9930705,
     "lng": 20.9610784,
+    "municipality": "Тетово",
     "address": "Илинденска",
-    "source": "OSM",
-    "municipality": "Тетово"
+    "source": "OSM"
   },
   {
     "id": "osm-w-235777271",
@@ -1254,8 +1254,8 @@
     "type": "primary",
     "lat": 41.1188766,
     "lng": 20.8049943,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-n-10091078201",
@@ -1263,8 +1263,8 @@
     "type": "primary",
     "lat": 42.1537696,
     "lng": 21.7355727,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1790311351",
@@ -1272,8 +1272,8 @@
     "type": "primary",
     "lat": 41.381688,
     "lng": 22.8164029,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-n-13259818433",
@@ -1281,8 +1281,8 @@
     "type": "primary",
     "lat": 41.313219,
     "lng": 22.5584296,
-    "source": "OSM",
-    "municipality": "Валандово"
+    "municipality": "Валандово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-5761128721",
@@ -1290,8 +1290,8 @@
     "type": "primary",
     "lat": 41.0921503,
     "lng": 21.0049026,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-35540932",
@@ -1299,8 +1299,8 @@
     "type": "primary",
     "lat": 42.0350555,
     "lng": 21.4253709,
-    "source": "OSM",
-    "municipality": "Шуто Оризари"
+    "municipality": "Шуто Оризари",
+    "source": "OSM"
   },
   {
     "id": "osm-w-378291427",
@@ -1308,8 +1308,8 @@
     "type": "primary",
     "lat": 42.0261333,
     "lng": 21.3832836,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-174471972",
@@ -1337,8 +1337,8 @@
     "type": "primary",
     "lat": 41.7624428,
     "lng": 22.8835063,
-    "source": "OSM",
-    "municipality": "Пехчево"
+    "municipality": "Пехчево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-174273487",
@@ -1386,8 +1386,8 @@
     "type": "primary",
     "lat": 42.0110811,
     "lng": 21.4380288,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1734604499",
@@ -1395,8 +1395,8 @@
     "type": "primary",
     "lat": 42.0941301,
     "lng": 21.3974516,
-    "source": "OSM",
-    "municipality": "Чучер-Сандево"
+    "municipality": "Чучер-Сандево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-28210582",
@@ -1404,8 +1404,8 @@
     "type": "primary",
     "lat": 42.0014174,
     "lng": 21.3887246,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-n-3709964622",
@@ -1413,8 +1413,8 @@
     "type": "primary",
     "lat": 41.9669828,
     "lng": 22.8027712,
-    "source": "OSM",
-    "municipality": "Делчево"
+    "municipality": "Делчево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175888054",
@@ -1422,8 +1422,8 @@
     "type": "primary",
     "lat": 42.0134211,
     "lng": 21.4332456,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-w-28220815",
@@ -1431,8 +1431,8 @@
     "type": "primary",
     "lat": 41.9951468,
     "lng": 21.508095,
-    "source": "OSM",
-    "municipality": "Гази Баба"
+    "municipality": "Гази Баба",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175199070",
@@ -1440,8 +1440,8 @@
     "type": "primary",
     "lat": 41.9961948,
     "lng": 21.3959781,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-176504900",
@@ -1449,8 +1449,8 @@
     "type": "primary",
     "lat": 41.9987542,
     "lng": 21.4101523,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-239570499",
@@ -1458,8 +1458,8 @@
     "type": "primary",
     "lat": 41.0897148,
     "lng": 21.0156863,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-363211985",
@@ -1467,8 +1467,8 @@
     "type": "primary",
     "lat": 41.7403638,
     "lng": 22.2000105,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-495421277",
@@ -1476,8 +1476,8 @@
     "type": "primary",
     "lat": 41.9765149,
     "lng": 20.9389928,
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "municipality": "Боговиње",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177120437",
@@ -1485,8 +1485,8 @@
     "type": "primary",
     "lat": 42.0030971,
     "lng": 21.3574943,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-379561907",
@@ -1494,8 +1494,8 @@
     "type": "primary",
     "lat": 42.0039542,
     "lng": 21.3705171,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-32299021",
@@ -1503,8 +1503,8 @@
     "type": "primary",
     "lat": 42.0052378,
     "lng": 21.3737041,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-r-15777568",
@@ -1522,8 +1522,8 @@
     "type": "primary",
     "lat": 42.0309216,
     "lng": 21.4469021,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2574272028",
@@ -1541,8 +1541,8 @@
     "type": "primary",
     "lat": 41.5272482,
     "lng": 21.4134382,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175915277",
@@ -1550,9 +1550,9 @@
     "type": "primary",
     "lat": 42.0052312,
     "lng": 21.4362645,
+    "municipality": "Чаир",
     "address": "Прохор Пчински",
-    "source": "OSM",
-    "municipality": "Чаир"
+    "source": "OSM"
   },
   {
     "id": "osm-w-224361718",
@@ -1560,8 +1560,8 @@
     "type": "primary",
     "lat": 42.0545245,
     "lng": 21.3489187,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-224361720",
@@ -1569,8 +1569,8 @@
     "type": "primary",
     "lat": 42.0681485,
     "lng": 21.3365301,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4658223490",
@@ -1578,8 +1578,8 @@
     "type": "primary",
     "lat": 42.0279527,
     "lng": 21.5133898,
-    "source": "OSM",
-    "municipality": "Гази Баба"
+    "municipality": "Гази Баба",
+    "source": "OSM"
   },
   {
     "id": "osm-w-37758476",
@@ -1587,8 +1587,8 @@
     "type": "primary",
     "lat": 41.9137935,
     "lng": 22.4105033,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175398193",
@@ -1596,8 +1596,8 @@
     "type": "primary",
     "lat": 41.9973786,
     "lng": 21.4389268,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4594261791",
@@ -1605,8 +1605,8 @@
     "type": "primary",
     "lat": 42.0761881,
     "lng": 21.0523475,
-    "source": "OSM",
-    "municipality": "Теарце"
+    "municipality": "Теарце",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177461982",
@@ -1614,8 +1614,8 @@
     "type": "primary",
     "lat": 41.9306265,
     "lng": 21.5263554,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2068679800",
@@ -1623,9 +1623,9 @@
     "type": "primary",
     "lat": 41.0045387,
     "lng": 21.3464495,
+    "municipality": "Битола",
     "address": "Паца Мирчева",
-    "source": "OSM",
-    "municipality": "Битола"
+    "source": "OSM"
   },
   {
     "id": "osm-w-28214819",
@@ -1633,8 +1633,8 @@
     "type": "primary",
     "lat": 42.0004101,
     "lng": 21.4201491,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1714557674",
@@ -1642,8 +1642,8 @@
     "type": "primary",
     "lat": 41.1358547,
     "lng": 20.8102678,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-184305375",
@@ -1651,8 +1651,8 @@
     "type": "primary",
     "lat": 41.9249258,
     "lng": 22.4447691,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175898988",
@@ -1660,9 +1660,9 @@
     "type": "primary",
     "lat": 42.0085655,
     "lng": 21.4444741,
+    "municipality": "Чаир",
     "address": "Булевар Цветан Димов",
-    "source": "OSM",
-    "municipality": "Чаир"
+    "source": "OSM"
   },
   {
     "id": "osm-w-183837444",
@@ -1670,9 +1670,9 @@
     "type": "primary",
     "lat": 41.9143529,
     "lng": 22.4218469,
+    "municipality": "Кочани",
     "address": "Тодосија Паунов",
-    "source": "OSM",
-    "municipality": "Кочани"
+    "source": "OSM"
   },
   {
     "id": "osm-w-612628053",
@@ -1680,8 +1680,8 @@
     "type": "primary",
     "lat": 42.0081353,
     "lng": 21.3508135,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1356653139",
@@ -1689,8 +1689,8 @@
     "type": "primary",
     "lat": 41.0877653,
     "lng": 21.0106053,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312049856",
@@ -1698,8 +1698,8 @@
     "type": "primary",
     "lat": 41.9141589,
     "lng": 21.5337673,
-    "source": "OSM",
-    "municipality": "Студеничани"
+    "municipality": "Студеничани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-241504861",
@@ -1707,8 +1707,8 @@
     "type": "primary",
     "lat": 41.9914581,
     "lng": 22.1867809,
-    "source": "OSM",
-    "municipality": "Пробиштип"
+    "municipality": "Пробиштип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175897525",
@@ -1716,8 +1716,8 @@
     "type": "primary",
     "lat": 42.0208223,
     "lng": 21.4517927,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-w-37760882",
@@ -1725,8 +1725,8 @@
     "type": "primary",
     "lat": 41.923412,
     "lng": 22.4110822,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175890712",
@@ -1734,8 +1734,8 @@
     "type": "primary",
     "lat": 42.0196768,
     "lng": 21.4335628,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177490041",
@@ -1743,8 +1743,8 @@
     "type": "primary",
     "lat": 41.9409409,
     "lng": 21.509944,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-254488376",
@@ -1752,8 +1752,8 @@
     "type": "primary",
     "lat": 41.9558301,
     "lng": 21.483652,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-183794311",
@@ -1761,8 +1761,8 @@
     "type": "primary",
     "lat": 41.883892,
     "lng": 22.3341079,
-    "source": "OSM",
-    "municipality": "Чешиново-Облешево"
+    "municipality": "Чешиново-Облешево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-237820396",
@@ -1770,8 +1770,8 @@
     "type": "primary",
     "lat": 41.8745703,
     "lng": 22.2935119,
-    "source": "OSM",
-    "municipality": "Чешиново-Облешево"
+    "municipality": "Чешиново-Облешево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175903378",
@@ -1779,8 +1779,8 @@
     "type": "primary",
     "lat": 42.0048656,
     "lng": 21.4432038,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-w-229233371",
@@ -1788,8 +1788,8 @@
     "type": "primary",
     "lat": 42.0311314,
     "lng": 21.3494164,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-176720023",
@@ -1797,8 +1797,8 @@
     "type": "primary",
     "lat": 42.0042786,
     "lng": 21.4131569,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-16663880",
@@ -1806,8 +1806,8 @@
     "type": "primary",
     "lat": 41.9974458,
     "lng": 21.4207761,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-365616021",
@@ -1822,16 +1822,16 @@
   {
     "id": "osm-w-378122457",
     "name": "ОУГС Битолски Конгрес",
-    "type": "primary",
+    "type": "secondary",
     "lat": 42.0018429,
     "lng": 21.4439354,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-w-39303517",
     "name": "ОУГС Љубен Лапе",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9845804,
     "lng": 21.460302,
     "municipality": "Аеродром",
@@ -1841,11 +1841,11 @@
   {
     "id": "osm-w-163004660",
     "name": "ОУГС Народен херој Кузман Јосифоски-Питу",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9869025,
     "lng": 21.4323628,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-375374252",
@@ -1853,8 +1853,8 @@
     "type": "primary",
     "lat": 41.9848465,
     "lng": 21.4366392,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175912096",
@@ -1882,8 +1882,8 @@
     "type": "primary",
     "lat": 41.2655707,
     "lng": 21.2751279,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4737821726",
@@ -1891,8 +1891,8 @@
     "type": "primary",
     "lat": 41.7731308,
     "lng": 22.1374625,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319265012",
@@ -1900,8 +1900,8 @@
     "type": "primary",
     "lat": 41.213678,
     "lng": 20.6346198,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-861170117",
@@ -1909,8 +1909,8 @@
     "type": "primary",
     "lat": 41.3570965,
     "lng": 21.5358158,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1314024963",
@@ -1918,8 +1918,8 @@
     "type": "primary",
     "lat": 41.4448877,
     "lng": 20.5285348,
-    "source": "OSM",
-    "municipality": "Дебар"
+    "municipality": "Дебар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1132275158",
@@ -1927,8 +1927,8 @@
     "type": "primary",
     "lat": 41.1511909,
     "lng": 21.5048854,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1132275190",
@@ -1936,8 +1936,8 @@
     "type": "primary",
     "lat": 41.1367203,
     "lng": 21.4719047,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1331535171",
@@ -1945,8 +1945,8 @@
     "type": "primary",
     "lat": 41.1401137,
     "lng": 22.5539885,
-    "source": "OSM",
-    "municipality": "Гевгелија"
+    "municipality": "Гевгелија",
+    "source": "OSM"
   },
   {
     "id": "osm-w-878965708",
@@ -1954,8 +1954,8 @@
     "type": "primary",
     "lat": 41.3676546,
     "lng": 21.6530875,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-487169697",
@@ -1963,8 +1963,8 @@
     "type": "primary",
     "lat": 41.3804988,
     "lng": 21.8078733,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-499475731",
@@ -1972,8 +1972,8 @@
     "type": "primary",
     "lat": 41.3982263,
     "lng": 21.5658231,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-893162091",
@@ -1981,8 +1981,8 @@
     "type": "primary",
     "lat": 41.372544,
     "lng": 21.7406182,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899882864",
@@ -1990,8 +1990,8 @@
     "type": "primary",
     "lat": 41.4028723,
     "lng": 21.6702259,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-442442570",
@@ -1999,8 +1999,8 @@
     "type": "primary",
     "lat": 41.3382631,
     "lng": 21.7009732,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319183611",
@@ -2008,8 +2008,8 @@
     "type": "primary",
     "lat": 41.2857346,
     "lng": 20.6020352,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1323366505",
@@ -2017,8 +2017,8 @@
     "type": "primary",
     "lat": 41.2087116,
     "lng": 21.2143026,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1328373137",
@@ -2026,8 +2026,8 @@
     "type": "primary",
     "lat": 41.9064909,
     "lng": 20.9642751,
-    "source": "OSM",
-    "municipality": "Брвеница"
+    "municipality": "Брвеница",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1328391048",
@@ -2035,8 +2035,8 @@
     "type": "primary",
     "lat": 41.895437,
     "lng": 20.9806026,
-    "source": "OSM",
-    "municipality": "Брвеница"
+    "municipality": "Брвеница",
+    "source": "OSM"
   },
   {
     "id": "osm-w-929187741",
@@ -2044,8 +2044,8 @@
     "type": "primary",
     "lat": 41.4610251,
     "lng": 21.3990754,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1055731611",
@@ -2053,8 +2053,8 @@
     "type": "primary",
     "lat": 41.4747192,
     "lng": 21.4167165,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1442897045",
@@ -2062,8 +2062,8 @@
     "type": "primary",
     "lat": 41.5546584,
     "lng": 21.428863,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1458229229",
@@ -2071,8 +2071,8 @@
     "type": "primary",
     "lat": 41.2801425,
     "lng": 21.3501104,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899449838",
@@ -2080,8 +2080,8 @@
     "type": "primary",
     "lat": 41.1795491,
     "lng": 21.5963339,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899453104",
@@ -2089,8 +2089,8 @@
     "type": "primary",
     "lat": 41.2311317,
     "lng": 21.5472987,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899627680",
@@ -2098,8 +2098,8 @@
     "type": "primary",
     "lat": 41.2307299,
     "lng": 21.5991838,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899660532",
@@ -2107,8 +2107,8 @@
     "type": "primary",
     "lat": 41.2002623,
     "lng": 21.5670311,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1395960350",
@@ -2116,8 +2116,8 @@
     "type": "primary",
     "lat": 41.2159476,
     "lng": 21.4860967,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-412941228",
@@ -2125,8 +2125,8 @@
     "type": "primary",
     "lat": 41.386242,
     "lng": 21.498066,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1279914571",
@@ -2134,8 +2134,8 @@
     "type": "primary",
     "lat": 41.6172782,
     "lng": 21.1944533,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1285641904",
@@ -2143,8 +2143,8 @@
     "type": "primary",
     "lat": 41.6824054,
     "lng": 21.148051,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1285668622",
@@ -2152,8 +2152,8 @@
     "type": "primary",
     "lat": 41.5202687,
     "lng": 21.2420348,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319178521",
@@ -2161,8 +2161,8 @@
     "type": "primary",
     "lat": 41.2297302,
     "lng": 20.6972143,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-991234632",
@@ -2180,8 +2180,8 @@
     "type": "primary",
     "lat": 41.1583384,
     "lng": 21.3590889,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-404972785",
@@ -2189,8 +2189,8 @@
     "type": "primary",
     "lat": 40.9217966,
     "lng": 21.4565176,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899882852",
@@ -2198,8 +2198,8 @@
     "type": "primary",
     "lat": 41.2034474,
     "lng": 21.4616393,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-326502003",
@@ -2207,8 +2207,8 @@
     "type": "primary",
     "lat": 41.3923796,
     "lng": 21.3252732,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-326805560",
@@ -2216,8 +2216,8 @@
     "type": "primary",
     "lat": 41.3639102,
     "lng": 21.3195485,
-    "source": "OSM",
-    "municipality": "Кривогаштани"
+    "municipality": "Кривогаштани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1122469109",
@@ -2225,8 +2225,8 @@
     "type": "primary",
     "lat": 41.5472576,
     "lng": 21.023051,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054257661",
@@ -2234,8 +2234,8 @@
     "type": "primary",
     "lat": 41.4684953,
     "lng": 21.2886719,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1311365265",
@@ -2243,8 +2243,8 @@
     "type": "primary",
     "lat": 41.4954784,
     "lng": 20.5829724,
-    "source": "OSM",
-    "municipality": "Центар Жупа"
+    "municipality": "Центар Жупа",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1328260597",
@@ -2252,8 +2252,8 @@
     "type": "primary",
     "lat": 41.8306918,
     "lng": 20.9665256,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-407215065",
@@ -2261,8 +2261,8 @@
     "type": "primary",
     "lat": 41.2969372,
     "lng": 21.4969163,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-431358734",
@@ -2270,8 +2270,8 @@
     "type": "primary",
     "lat": 41.259581,
     "lng": 21.5711074,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-495043125",
@@ -2279,8 +2279,8 @@
     "type": "primary",
     "lat": 41.2949534,
     "lng": 21.5357672,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-562463292",
@@ -2288,8 +2288,8 @@
     "type": "primary",
     "lat": 41.2638784,
     "lng": 21.4334031,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-878963520",
@@ -2297,8 +2297,8 @@
     "type": "primary",
     "lat": 41.2374165,
     "lng": 21.4062116,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-893146894",
@@ -2306,8 +2306,8 @@
     "type": "primary",
     "lat": 41.2818867,
     "lng": 21.5687655,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-893149557",
@@ -2315,8 +2315,8 @@
     "type": "primary",
     "lat": 41.248553,
     "lng": 21.3953509,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899463572",
@@ -2324,8 +2324,8 @@
     "type": "primary",
     "lat": 41.302003,
     "lng": 21.5675271,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1271369005",
@@ -2333,8 +2333,8 @@
     "type": "primary",
     "lat": 41.2593097,
     "lng": 21.4825316,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1360835454",
@@ -2342,8 +2342,8 @@
     "type": "primary",
     "lat": 41.3107301,
     "lng": 21.5134773,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1452486417",
@@ -2351,8 +2351,8 @@
     "type": "primary",
     "lat": 41.3042135,
     "lng": 21.4782749,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312580034",
@@ -2360,8 +2360,8 @@
     "type": "primary",
     "lat": 41.4598518,
     "lng": 20.5496128,
-    "source": "OSM",
-    "municipality": "Центар Жупа"
+    "municipality": "Центар Жупа",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312599243",
@@ -2369,8 +2369,8 @@
     "type": "primary",
     "lat": 41.4351311,
     "lng": 20.6180583,
-    "source": "OSM",
-    "municipality": "Центар Жупа"
+    "municipality": "Центар Жупа",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1047603415",
@@ -2378,8 +2378,8 @@
     "type": "primary",
     "lat": 41.4638916,
     "lng": 21.4880817,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1047622477",
@@ -2387,8 +2387,8 @@
     "type": "primary",
     "lat": 41.4681859,
     "lng": 21.54408,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1047622483",
@@ -2396,8 +2396,8 @@
     "type": "primary",
     "lat": 41.4407688,
     "lng": 21.519383,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054395744",
@@ -2405,8 +2405,8 @@
     "type": "primary",
     "lat": 41.4485277,
     "lng": 21.5608703,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054257654",
@@ -2414,8 +2414,8 @@
     "type": "primary",
     "lat": 41.4977509,
     "lng": 21.4069671,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1056108808",
@@ -2423,8 +2423,8 @@
     "type": "primary",
     "lat": 41.5006739,
     "lng": 21.4513318,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-412643699",
@@ -2432,8 +2432,8 @@
     "type": "primary",
     "lat": 41.4126795,
     "lng": 21.3989408,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-412801866",
@@ -2441,8 +2441,8 @@
     "type": "primary",
     "lat": 41.4024175,
     "lng": 21.4340678,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1044716329",
@@ -2450,8 +2450,8 @@
     "type": "primary",
     "lat": 41.3936786,
     "lng": 21.37244,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054098592",
@@ -2459,8 +2459,8 @@
     "type": "primary",
     "lat": 41.3817059,
     "lng": 21.41519,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1380827968",
@@ -2468,8 +2468,8 @@
     "type": "primary",
     "lat": 41.475994,
     "lng": 21.4620086,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1442706487",
@@ -2477,8 +2477,8 @@
     "type": "primary",
     "lat": 41.413763,
     "lng": 21.4692263,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899195540",
@@ -2486,8 +2486,8 @@
     "type": "primary",
     "lat": 41.3259156,
     "lng": 21.5767984,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1334579431",
@@ -2495,8 +2495,8 @@
     "type": "primary",
     "lat": 41.93336,
     "lng": 20.9447822,
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "municipality": "Боговиње",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1462639957",
@@ -2504,8 +2504,8 @@
     "type": "primary",
     "lat": 40.959067,
     "lng": 21.0806965,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054395727",
@@ -2513,8 +2513,8 @@
     "type": "primary",
     "lat": 41.3979953,
     "lng": 21.3073324,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-620649954",
@@ -2522,8 +2522,8 @@
     "type": "primary",
     "lat": 41.2917288,
     "lng": 21.6284706,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-893155848",
@@ -2531,8 +2531,8 @@
     "type": "primary",
     "lat": 41.1632546,
     "lng": 21.6864148,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899133476",
@@ -2540,8 +2540,8 @@
     "type": "primary",
     "lat": 41.2799488,
     "lng": 21.6706317,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899182418",
@@ -2549,8 +2549,8 @@
     "type": "primary",
     "lat": 41.1473982,
     "lng": 21.8238968,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899468318",
@@ -2558,8 +2558,8 @@
     "type": "primary",
     "lat": 41.1669231,
     "lng": 21.727812,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899479867",
@@ -2567,8 +2567,8 @@
     "type": "primary",
     "lat": 41.2057882,
     "lng": 21.6535226,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899622223",
@@ -2576,8 +2576,8 @@
     "type": "primary",
     "lat": 41.1387345,
     "lng": 21.7828243,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899655606",
@@ -2585,8 +2585,8 @@
     "type": "primary",
     "lat": 41.2587279,
     "lng": 21.6912293,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899882844",
@@ -2594,8 +2594,8 @@
     "type": "primary",
     "lat": 41.2553308,
     "lng": 21.6457696,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-407204255",
@@ -2603,8 +2603,8 @@
     "type": "primary",
     "lat": 41.3074699,
     "lng": 21.4591315,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-412979391",
@@ -2612,8 +2612,8 @@
     "type": "primary",
     "lat": 41.3434563,
     "lng": 21.4413015,
-    "source": "OSM",
-    "municipality": "Прилеп"
+    "municipality": "Прилеп",
+    "source": "OSM"
   },
   {
     "id": "osm-w-375121053",
@@ -2621,8 +2621,8 @@
     "type": "primary",
     "lat": 41.3451379,
     "lng": 22.4400646,
-    "source": "OSM",
-    "municipality": "Валандово"
+    "municipality": "Валандово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-992188591",
@@ -2630,8 +2630,8 @@
     "type": "primary",
     "lat": 41.0551674,
     "lng": 21.3414536,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2574272018",
@@ -2669,8 +2669,8 @@
     "type": "primary",
     "lat": 41.4072873,
     "lng": 22.8357277,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1383797686",
@@ -2678,13 +2678,13 @@
     "type": "primary",
     "lat": 41.4390713,
     "lng": 22.8355682,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-54037881",
     "name": "ПСУ „Јахја Кемал“",
-    "type": "primary",
+    "type": "secondary",
     "lat": 42.0009715,
     "lng": 21.3926855,
     "municipality": "Карпош",
@@ -2697,18 +2697,18 @@
     "type": "primary",
     "lat": 41.3669199,
     "lng": 21.2922643,
-    "source": "OSM",
-    "municipality": "Крушево"
+    "municipality": "Крушево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-179747905",
     "name": "С.У.Г.С. Владо Тасевски",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9779285,
     "lng": 21.4613502,
+    "municipality": "Аеродром",
     "address": "Булевар 3та Македонска Бригада",
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "source": "OSM"
   },
   {
     "id": "osm-w-232349715",
@@ -2716,8 +2716,8 @@
     "type": "primary",
     "lat": 41.440447,
     "lng": 22.6364078,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-w-365616020",
@@ -2732,20 +2732,20 @@
   {
     "id": "osm-w-1362818963",
     "name": "СГГУГС „Здравко Цветковски“ - Скопје",
-    "type": "primary",
+    "type": "secondary",
     "lat": 42.0012833,
     "lng": 21.4024466,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-224469841",
     "name": "СЕПУГС Васил Антевски - Дрен",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9798991,
     "lng": 21.4389091,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-231156207",
@@ -2763,13 +2763,13 @@
     "type": "primary",
     "lat": 41.8835512,
     "lng": 22.5039001,
-    "source": "OSM",
-    "municipality": "Виница"
+    "municipality": "Виница",
+    "source": "OSM"
   },
   {
     "id": "osm-w-32687581",
     "name": "СМУГС Д-р Панче Караѓозов",
-    "type": "primary",
+    "type": "secondary",
     "lat": 41.9905667,
     "lng": 21.4230961,
     "municipality": "Центар",
@@ -2782,8 +2782,8 @@
     "type": "primary",
     "lat": 42.1189539,
     "lng": 21.7338819,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1518687009",
@@ -2791,8 +2791,8 @@
     "type": "secondary",
     "lat": 41.5165545,
     "lng": 20.5299171,
-    "source": "OSM",
-    "municipality": "Дебар"
+    "municipality": "Дебар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-446057610",
@@ -2800,8 +2800,8 @@
     "type": "secondary",
     "lat": 41.747746,
     "lng": 22.1824149,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-839150798",
@@ -2819,8 +2819,8 @@
     "type": "secondary",
     "lat": 41.9145199,
     "lng": 22.4379049,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-991743106",
@@ -2878,8 +2878,8 @@
     "type": "secondary",
     "lat": 41.7314322,
     "lng": 22.1996241,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1330472789",
@@ -2907,8 +2907,8 @@
     "type": "secondary",
     "lat": 41.9140668,
     "lng": 22.4098956,
-    "source": "OSM",
-    "municipality": "Кочани"
+    "municipality": "Кочани",
+    "source": "OSM"
   },
   {
     "id": "osm-w-365616019",
@@ -2966,8 +2966,8 @@
     "type": "secondary",
     "lat": 41.5119131,
     "lng": 21.2171629,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1136200640",
@@ -2985,8 +2985,8 @@
     "type": "secondary",
     "lat": 41.9307021,
     "lng": 21.5249267,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-839736611",
@@ -2994,8 +2994,8 @@
     "type": "secondary",
     "lat": 41.8627384,
     "lng": 21.9490153,
-    "source": "OSM",
-    "municipality": "Свети Николе"
+    "municipality": "Свети Николе",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175202015",
@@ -3003,8 +3003,8 @@
     "type": "secondary",
     "lat": 41.993194,
     "lng": 21.3994475,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-122885860",
@@ -3022,9 +3022,9 @@
     "type": "secondary",
     "lat": 41.9788554,
     "lng": 21.4642714,
+    "municipality": "Аеродром",
     "address": "Булевар 3та Македонска Бригада",
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "source": "OSM"
   },
   {
     "id": "osm-w-43362987",
@@ -3042,8 +3042,8 @@
     "type": "secondary",
     "lat": 41.9354534,
     "lng": 21.5229279,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-176513052",
@@ -3051,8 +3051,8 @@
     "type": "secondary",
     "lat": 41.9997037,
     "lng": 21.4019205,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-899134885",
@@ -3080,8 +3080,8 @@
     "type": "secondary",
     "lat": 42.0243524,
     "lng": 21.4350203,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-w-177122241",
@@ -3089,8 +3089,8 @@
     "type": "secondary",
     "lat": 42.0043695,
     "lng": 21.3638121,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-548212321",
@@ -3108,8 +3108,8 @@
     "type": "secondary",
     "lat": 42.006155,
     "lng": 21.4645979,
-    "source": "OSM",
-    "municipality": "Гази Баба"
+    "municipality": "Гази Баба",
+    "source": "OSM"
   },
   {
     "id": "osm-w-175451790",
@@ -3137,8 +3137,8 @@
     "type": "secondary",
     "lat": 42.0139402,
     "lng": 21.4376105,
-    "source": "OSM",
-    "municipality": "Чаир"
+    "municipality": "Чаир",
+    "source": "OSM"
   },
   {
     "id": "osm-w-585118824",
@@ -3146,8 +3146,8 @@
     "type": "primary",
     "lat": 41.4374831,
     "lng": 22.0167919,
-    "source": "OSM",
-    "municipality": "Кавадарци"
+    "municipality": "Кавадарци",
+    "source": "OSM"
   },
   {
     "id": "osm-w-43682131",
@@ -3155,8 +3155,8 @@
     "type": "primary",
     "lat": 42.0300433,
     "lng": 21.4411245,
-    "source": "OSM",
-    "municipality": "Бутел"
+    "municipality": "Бутел",
+    "source": "OSM"
   },
   {
     "id": "osm-n-913069400",
@@ -3164,8 +3164,8 @@
     "type": "primary",
     "lat": 41.4419022,
     "lng": 22.0199221,
-    "source": "OSM",
-    "municipality": "Кавадарци"
+    "municipality": "Кавадарци",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1999950863",
@@ -3173,8 +3173,8 @@
     "type": "primary",
     "lat": 41.408628,
     "lng": 22.2442559,
-    "source": "OSM",
-    "municipality": "Демир Капија"
+    "municipality": "Демир Капија",
+    "source": "OSM"
   },
   {
     "id": "osm-n-2893229378",
@@ -3182,8 +3182,8 @@
     "type": "primary",
     "lat": 41.0408096,
     "lng": 21.454897,
-    "source": "OSM",
-    "municipality": "Новаци"
+    "municipality": "Новаци",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4338174896",
@@ -3191,8 +3191,8 @@
     "type": "primary",
     "lat": 41.8328954,
     "lng": 20.8816775,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4705276189",
@@ -3200,8 +3200,8 @@
     "type": "primary",
     "lat": 42.0651285,
     "lng": 21.0434729,
-    "source": "OSM",
-    "municipality": "Теарце"
+    "municipality": "Теарце",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4792650321",
@@ -3209,8 +3209,8 @@
     "type": "primary",
     "lat": 41.9377051,
     "lng": 20.926142,
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "municipality": "Боговиње",
+    "source": "OSM"
   },
   {
     "id": "osm-n-7122735780",
@@ -3218,8 +3218,8 @@
     "type": "primary",
     "lat": 42.2248372,
     "lng": 21.8688123,
-    "source": "OSM",
-    "municipality": "Старо Нагоричане"
+    "municipality": "Старо Нагоричане",
+    "source": "OSM"
   },
   {
     "id": "osm-n-10682768610",
@@ -3227,8 +3227,8 @@
     "type": "primary",
     "lat": 42.1388026,
     "lng": 21.7012996,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-10682851705",
@@ -3236,8 +3236,8 @@
     "type": "primary",
     "lat": 42.1250187,
     "lng": 21.6819518,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-10951339225",
@@ -3245,8 +3245,8 @@
     "type": "primary",
     "lat": 41.8885353,
     "lng": 21.2811862,
-    "source": "OSM",
-    "municipality": "Сопиште"
+    "municipality": "Сопиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-86819794",
@@ -3254,8 +3254,8 @@
     "type": "primary",
     "lat": 41.7956551,
     "lng": 20.9067259,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-161469418",
@@ -3263,8 +3263,8 @@
     "type": "primary",
     "lat": 42.0560514,
     "lng": 21.3083977,
-    "source": "OSM",
-    "municipality": "Ѓорче Петров"
+    "municipality": "Ѓорче Петров",
+    "source": "OSM"
   },
   {
     "id": "osm-w-167875967",
@@ -3272,8 +3272,8 @@
     "type": "primary",
     "lat": 41.4520888,
     "lng": 21.2713028,
-    "source": "OSM",
-    "municipality": "Крушево"
+    "municipality": "Крушево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-174497849",
@@ -3281,8 +3281,8 @@
     "type": "primary",
     "lat": 41.2887723,
     "lng": 21.1197137,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-176171869",
@@ -3290,8 +3290,8 @@
     "type": "primary",
     "lat": 41.9872301,
     "lng": 21.4172142,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-229832923",
@@ -3299,9 +3299,9 @@
     "type": "primary",
     "lat": 41.983424,
     "lng": 21.4868579,
+    "municipality": "Аеродром",
     "address": "Тодор Чангов",
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "source": "OSM"
   },
   {
     "id": "osm-w-302014121",
@@ -3309,8 +3309,8 @@
     "type": "primary",
     "lat": 41.050271,
     "lng": 21.379601,
-    "source": "OSM",
-    "municipality": "Битола"
+    "municipality": "Битола",
+    "source": "OSM"
   },
   {
     "id": "osm-w-332474728",
@@ -3318,8 +3318,8 @@
     "type": "primary",
     "lat": 41.1650325,
     "lng": 21.5409986,
-    "source": "OSM",
-    "municipality": "Могила"
+    "municipality": "Могила",
+    "source": "OSM"
   },
   {
     "id": "osm-w-337651487",
@@ -3327,8 +3327,8 @@
     "type": "primary",
     "lat": 41.5643166,
     "lng": 21.410053,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-337656898",
@@ -3336,8 +3336,8 @@
     "type": "primary",
     "lat": 41.5369429,
     "lng": 21.3702518,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-404384222",
@@ -3345,8 +3345,8 @@
     "type": "primary",
     "lat": 42.0258142,
     "lng": 21.5547672,
-    "source": "OSM",
-    "municipality": "Арачиново"
+    "municipality": "Арачиново",
+    "source": "OSM"
   },
   {
     "id": "osm-w-444879475",
@@ -3354,8 +3354,8 @@
     "type": "primary",
     "lat": 41.7491997,
     "lng": 22.1916673,
-    "source": "OSM",
-    "municipality": "Штип"
+    "municipality": "Штип",
+    "source": "OSM"
   },
   {
     "id": "osm-w-449426832",
@@ -3363,8 +3363,8 @@
     "type": "primary",
     "lat": 41.6484751,
     "lng": 21.6903627,
-    "source": "OSM",
-    "municipality": "Чашка"
+    "municipality": "Чашка",
+    "source": "OSM"
   },
   {
     "id": "osm-w-450045538",
@@ -3372,8 +3372,8 @@
     "type": "primary",
     "lat": 41.9904094,
     "lng": 21.5845757,
-    "source": "OSM",
-    "municipality": "Илинден"
+    "municipality": "Илинден",
+    "source": "OSM"
   },
   {
     "id": "osm-w-452899480",
@@ -3381,8 +3381,8 @@
     "type": "primary",
     "lat": 41.5901329,
     "lng": 21.4714461,
-    "source": "OSM",
-    "municipality": "Чашка"
+    "municipality": "Чашка",
+    "source": "OSM"
   },
   {
     "id": "osm-w-502187247",
@@ -3390,8 +3390,8 @@
     "type": "primary",
     "lat": 41.675686,
     "lng": 21.305515,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-507599098",
@@ -3399,8 +3399,8 @@
     "type": "primary",
     "lat": 41.7897506,
     "lng": 20.9034726,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-507963388",
@@ -3408,8 +3408,8 @@
     "type": "primary",
     "lat": 41.174238,
     "lng": 20.6350137,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-737641988",
@@ -3417,8 +3417,8 @@
     "type": "primary",
     "lat": 41.437061,
     "lng": 21.249201,
-    "source": "OSM",
-    "municipality": "Крушево"
+    "municipality": "Крушево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-821322970",
@@ -3426,8 +3426,8 @@
     "type": "primary",
     "lat": 41.2813223,
     "lng": 21.0472091,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-821328589",
@@ -3435,8 +3435,8 @@
     "type": "primary",
     "lat": 41.2995414,
     "lng": 21.0821406,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-839023062",
@@ -3444,8 +3444,8 @@
     "type": "primary",
     "lat": 41.8666472,
     "lng": 21.9413014,
-    "source": "OSM",
-    "municipality": "Свети Николе"
+    "municipality": "Свети Николе",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1041572868",
@@ -3453,8 +3453,8 @@
     "type": "primary",
     "lat": 41.8731552,
     "lng": 21.6005663,
-    "source": "OSM",
-    "municipality": "Зелениково"
+    "municipality": "Зелениково",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1054098602",
@@ -3462,8 +3462,8 @@
     "type": "primary",
     "lat": 41.5173215,
     "lng": 21.3522176,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1055341010",
@@ -3471,8 +3471,8 @@
     "type": "primary",
     "lat": 41.4883755,
     "lng": 21.3682143,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1056108817",
@@ -3480,8 +3480,8 @@
     "type": "primary",
     "lat": 41.4950582,
     "lng": 21.3822749,
-    "source": "OSM",
-    "municipality": "Долнени"
+    "municipality": "Долнени",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1063778890",
@@ -3489,8 +3489,8 @@
     "type": "primary",
     "lat": 42.1532405,
     "lng": 21.5899083,
-    "source": "OSM",
-    "municipality": "Липково"
+    "municipality": "Липково",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1069081204",
@@ -3498,8 +3498,8 @@
     "type": "primary",
     "lat": 42.0798998,
     "lng": 22.177556,
-    "source": "OSM",
-    "municipality": "Кратово"
+    "municipality": "Кратово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1078024781",
@@ -3507,8 +3507,8 @@
     "type": "primary",
     "lat": 41.6107362,
     "lng": 20.5989083,
-    "source": "OSM",
-    "municipality": "Маврово и Ростуша"
+    "municipality": "Маврово и Ростуша",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1085592562",
@@ -3516,8 +3516,8 @@
     "type": "primary",
     "lat": 41.8828094,
     "lng": 20.8917049,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1085965425",
@@ -3525,8 +3525,8 @@
     "type": "primary",
     "lat": 41.8973751,
     "lng": 20.9049068,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1112148584",
@@ -3534,8 +3534,8 @@
     "type": "primary",
     "lat": 41.8831209,
     "lng": 22.512274,
-    "source": "OSM",
-    "municipality": "Виница"
+    "municipality": "Виница",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1120646112",
@@ -3543,8 +3543,8 @@
     "type": "primary",
     "lat": 41.9756351,
     "lng": 21.0557399,
-    "source": "OSM",
-    "municipality": "Желино"
+    "municipality": "Желино",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1154207246",
@@ -3552,8 +3552,8 @@
     "type": "primary",
     "lat": 42.0697739,
     "lng": 22.0461179,
-    "source": "OSM",
-    "municipality": "Кратово"
+    "municipality": "Кратово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1205231434",
@@ -3561,8 +3561,8 @@
     "type": "primary",
     "lat": 41.5196897,
     "lng": 20.9682378,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1205231435",
@@ -3570,8 +3570,8 @@
     "type": "primary",
     "lat": 41.5384631,
     "lng": 21.0006894,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1205231437",
@@ -3579,8 +3579,8 @@
     "type": "primary",
     "lat": 41.5902796,
     "lng": 21.0276598,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1207103887",
@@ -3588,8 +3588,8 @@
     "type": "primary",
     "lat": 41.6238716,
     "lng": 21.0120906,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1244653810",
@@ -3597,8 +3597,8 @@
     "type": "primary",
     "lat": 41.14219,
     "lng": 22.5046807,
-    "source": "OSM",
-    "municipality": "Гевгелија"
+    "municipality": "Гевгелија",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1286295497",
@@ -3606,8 +3606,8 @@
     "type": "primary",
     "lat": 41.7231426,
     "lng": 21.2529414,
-    "source": "OSM",
-    "municipality": "Македонски Брод"
+    "municipality": "Македонски Брод",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1311876852",
@@ -3615,8 +3615,8 @@
     "type": "primary",
     "lat": 41.271721,
     "lng": 21.1983546,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312092873",
@@ -3624,8 +3624,8 @@
     "type": "primary",
     "lat": 41.959206,
     "lng": 21.5355248,
-    "source": "OSM",
-    "municipality": "Аеродром"
+    "municipality": "Аеродром",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1314164652",
@@ -3633,8 +3633,8 @@
     "type": "primary",
     "lat": 41.690036,
     "lng": 20.6925347,
-    "source": "OSM",
-    "municipality": "Маврово и Ростуша"
+    "municipality": "Маврово и Ростуша",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1314436194",
@@ -3642,8 +3642,8 @@
     "type": "primary",
     "lat": 41.1314209,
     "lng": 21.0045327,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1314436198",
@@ -3651,8 +3651,8 @@
     "type": "primary",
     "lat": 41.1075547,
     "lng": 21.0114182,
-    "source": "OSM",
-    "municipality": "Ресен"
+    "municipality": "Ресен",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319254372",
@@ -3660,8 +3660,8 @@
     "type": "primary",
     "lat": 41.26044,
     "lng": 20.6752873,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319256044",
@@ -3669,8 +3669,8 @@
     "type": "primary",
     "lat": 41.2578291,
     "lng": 20.7243951,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319257017",
@@ -3678,8 +3678,8 @@
     "type": "primary",
     "lat": 41.2537296,
     "lng": 20.6543056,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1319267745",
@@ -3687,8 +3687,8 @@
     "type": "primary",
     "lat": 41.2607706,
     "lng": 20.6919693,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1323452676",
@@ -3696,8 +3696,8 @@
     "type": "primary",
     "lat": 41.1965543,
     "lng": 21.1012984,
-    "source": "OSM",
-    "municipality": "Демир Хисар/Мургашево"
+    "municipality": "Демир Хисар/Мургашево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1331535162",
@@ -3705,8 +3705,8 @@
     "type": "primary",
     "lat": 41.14166,
     "lng": 22.5461991,
-    "source": "OSM",
-    "municipality": "Гевгелија"
+    "municipality": "Гевгелија",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1340581765",
@@ -3714,8 +3714,8 @@
     "type": "primary",
     "lat": 42.1615982,
     "lng": 21.1752288,
-    "source": "OSM",
-    "municipality": "Јегуновце"
+    "municipality": "Јегуновце",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1340980920",
@@ -3723,8 +3723,8 @@
     "type": "primary",
     "lat": 42.0817518,
     "lng": 21.2172024,
-    "source": "OSM",
-    "municipality": "Сарај"
+    "municipality": "Сарај",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1359015061",
@@ -3732,8 +3732,8 @@
     "type": "primary",
     "lat": 41.4400042,
     "lng": 22.7279215,
-    "source": "OSM",
-    "municipality": "Босилово"
+    "municipality": "Босилово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1378110506",
@@ -3741,8 +3741,8 @@
     "type": "primary",
     "lat": 41.2450547,
     "lng": 20.6408523,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1378665937",
@@ -3750,8 +3750,8 @@
     "type": "primary",
     "lat": 41.1742634,
     "lng": 20.8360326,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1378666515",
@@ -3759,8 +3759,8 @@
     "type": "primary",
     "lat": 41.2305527,
     "lng": 20.7223686,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1380043760",
@@ -3768,8 +3768,8 @@
     "type": "primary",
     "lat": 41.2045513,
     "lng": 22.5756512,
-    "source": "OSM",
-    "municipality": "Богданци"
+    "municipality": "Богданци",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1380302993",
@@ -3777,8 +3777,8 @@
     "type": "primary",
     "lat": 41.1404747,
     "lng": 22.4982859,
-    "source": "OSM",
-    "municipality": "Гевгелија"
+    "municipality": "Гевгелија",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384012852",
@@ -3786,8 +3786,8 @@
     "type": "primary",
     "lat": 41.4157886,
     "lng": 22.8832138,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384012858",
@@ -3795,8 +3795,8 @@
     "type": "primary",
     "lat": 41.412995,
     "lng": 22.8787453,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384012875",
@@ -3804,8 +3804,8 @@
     "type": "primary",
     "lat": 41.4009662,
     "lng": 22.9036719,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384012893",
@@ -3813,8 +3813,8 @@
     "type": "primary",
     "lat": 41.3950542,
     "lng": 22.9382243,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384101598",
@@ -3822,8 +3822,8 @@
     "type": "primary",
     "lat": 41.3678374,
     "lng": 22.9567305,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384101606",
@@ -3831,8 +3831,8 @@
     "type": "primary",
     "lat": 41.3744631,
     "lng": 22.919461,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384101618",
@@ -3840,8 +3840,8 @@
     "type": "primary",
     "lat": 41.376075,
     "lng": 22.9006438,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1384101629",
@@ -3849,8 +3849,8 @@
     "type": "primary",
     "lat": 41.3789522,
     "lng": 22.859466,
-    "source": "OSM",
-    "municipality": "Ново Село"
+    "municipality": "Ново Село",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1448982612",
@@ -3858,8 +3858,8 @@
     "type": "primary",
     "lat": 41.1392561,
     "lng": 20.8373704,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1451114232",
@@ -3867,8 +3867,8 @@
     "type": "primary",
     "lat": 41.4347113,
     "lng": 21.2765563,
-    "source": "OSM",
-    "municipality": "Крушево"
+    "municipality": "Крушево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1474799665",
@@ -3876,8 +3876,8 @@
     "type": "primary",
     "lat": 42.2438849,
     "lng": 21.7285712,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1500345194",
@@ -3885,8 +3885,8 @@
     "type": "primary",
     "lat": 41.9411902,
     "lng": 21.336018,
-    "source": "OSM",
-    "municipality": "Сопиште"
+    "municipality": "Сопиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-176720024",
@@ -3904,8 +3904,8 @@
     "type": "primary",
     "lat": 41.182665,
     "lng": 20.6755028,
-    "source": "OSM",
-    "municipality": "Струга"
+    "municipality": "Струга",
+    "source": "OSM"
   },
   {
     "id": "osm-w-203672094",
@@ -3913,8 +3913,8 @@
     "type": "primary",
     "lat": 42.1338865,
     "lng": 21.7207615,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4410665289",
@@ -3922,8 +3922,8 @@
     "type": "primary",
     "lat": 42.0069157,
     "lng": 21.3831825,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-86818741",
@@ -3931,8 +3931,8 @@
     "type": "primary",
     "lat": 41.79096,
     "lng": 20.9110971,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-n-373128152",
@@ -3940,8 +3940,8 @@
     "type": "primary",
     "lat": 41.4320592,
     "lng": 22.0140878,
-    "source": "OSM",
-    "municipality": "Кавадарци"
+    "municipality": "Кавадарци",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1919413190",
@@ -3949,8 +3949,8 @@
     "type": "primary",
     "lat": 41.6363397,
     "lng": 22.4672673,
-    "source": "OSM",
-    "municipality": "Радовиш"
+    "municipality": "Радовиш",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1333869020",
@@ -3968,8 +3968,8 @@
     "type": "primary",
     "lat": 41.5730925,
     "lng": 20.9438696,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-n-5999496385",
@@ -3977,9 +3977,9 @@
     "type": "primary",
     "lat": 42.1336401,
     "lng": 21.7109563,
+    "municipality": "Куманово",
     "address": "3 Македонска Ударна Бригада",
-    "source": "OSM",
-    "municipality": "Куманово"
+    "source": "OSM"
   },
   {
     "id": "osm-n-4708705494",
@@ -3987,8 +3987,8 @@
     "type": "primary",
     "lat": 41.9914476,
     "lng": 21.4174048,
-    "source": "OSM",
-    "municipality": "Центар"
+    "municipality": "Центар",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1207217951",
@@ -3996,8 +3996,8 @@
     "type": "primary",
     "lat": 41.1196746,
     "lng": 20.8117352,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-226993435",
@@ -4005,8 +4005,8 @@
     "type": "primary",
     "lat": 41.5101076,
     "lng": 20.9557089,
-    "source": "OSM",
-    "municipality": "Кичево"
+    "municipality": "Кичево",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1009691552",
@@ -4024,8 +4024,8 @@
     "type": "primary",
     "lat": 42.0090193,
     "lng": 21.4076307,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-n-8611709417",
@@ -4033,9 +4033,9 @@
     "type": "primary",
     "lat": 41.1700073,
     "lng": 20.7083647,
+    "municipality": "Струга",
     "address": "Ezerski Lozja бр. 1",
-    "source": "OSM",
-    "municipality": "Струга"
+    "source": "OSM"
   },
   {
     "id": "osm-w-241088115",
@@ -4043,8 +4043,8 @@
     "type": "primary",
     "lat": 42.0074969,
     "lng": 20.965453,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-844322211",
@@ -4052,8 +4052,8 @@
     "type": "primary",
     "lat": 41.9781468,
     "lng": 21.4443324,
-    "source": "OSM",
-    "municipality": "Кисела Вода"
+    "municipality": "Кисела Вода",
+    "source": "OSM"
   },
   {
     "id": "osm-w-241085461",
@@ -4071,8 +4071,8 @@
     "type": "primary",
     "lat": 42.012489,
     "lng": 20.975748,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1197779052",
@@ -4080,8 +4080,8 @@
     "type": "primary",
     "lat": 41.4679073,
     "lng": 21.117961,
-    "source": "OSM",
-    "municipality": "Пласница"
+    "municipality": "Пласница",
+    "source": "OSM"
   },
   {
     "id": "osm-n-3189877961",
@@ -4089,8 +4089,8 @@
     "type": "primary",
     "lat": 41.64034,
     "lng": 22.463039,
-    "source": "OSM",
-    "municipality": "Радовиш"
+    "municipality": "Радовиш",
+    "source": "OSM"
   },
   {
     "id": "osm-w-264336813",
@@ -4098,8 +4098,8 @@
     "type": "primary",
     "lat": 41.6743563,
     "lng": 20.5878299,
-    "source": "OSM",
-    "municipality": "Маврово и Ростуша"
+    "municipality": "Маврово и Ростуша",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1394407085",
@@ -4107,8 +4107,8 @@
     "type": "primary",
     "lat": 41.9205805,
     "lng": 21.4925688,
-    "source": "OSM",
-    "municipality": "Студеничани"
+    "municipality": "Студеничани",
+    "source": "OSM"
   },
   {
     "id": "osm-n-470029608",
@@ -4116,8 +4116,8 @@
     "type": "primary",
     "lat": 42.2057455,
     "lng": 22.3356267,
-    "source": "OSM",
-    "municipality": "Крива Паланка"
+    "municipality": "Крива Паланка",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4502378793",
@@ -4125,9 +4125,9 @@
     "type": "primary",
     "lat": 41.941539,
     "lng": 20.927028,
+    "municipality": "Боговиње",
     "address": "101",
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "source": "OSM"
   },
   {
     "id": "osm-n-4502452989",
@@ -4135,9 +4135,9 @@
     "type": "primary",
     "lat": 41.9442832,
     "lng": 20.9261478,
+    "municipality": "Боговиње",
     "address": "101",
-    "source": "OSM",
-    "municipality": "Боговиње"
+    "source": "OSM"
   },
   {
     "id": "osm-w-144060298",
@@ -4155,8 +4155,8 @@
     "type": "primary",
     "lat": 41.6354256,
     "lng": 22.468426,
-    "source": "OSM",
-    "municipality": "Радовиш"
+    "municipality": "Радовиш",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1083221697",
@@ -4164,8 +4164,8 @@
     "type": "primary",
     "lat": 41.8782849,
     "lng": 20.8873111,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-255896286",
@@ -4173,8 +4173,8 @@
     "type": "primary",
     "lat": 42.1330765,
     "lng": 21.726612,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1312047220",
@@ -4182,8 +4182,8 @@
     "type": "primary",
     "lat": 41.4355919,
     "lng": 22.7067983,
-    "source": "OSM",
-    "municipality": "Босилово"
+    "municipality": "Босилово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-13627012248",
@@ -4191,8 +4191,8 @@
     "type": "primary",
     "lat": 41.7745612,
     "lng": 20.9301533,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-32340717",
@@ -4200,8 +4200,8 @@
     "type": "primary",
     "lat": 42.0074543,
     "lng": 21.41312,
-    "source": "OSM",
-    "municipality": "Карпош"
+    "municipality": "Карпош",
+    "source": "OSM"
   },
   {
     "id": "osm-w-533806913",
@@ -4209,9 +4209,9 @@
     "type": "primary",
     "lat": 42.0019155,
     "lng": 21.3819862,
+    "municipality": "Карпош",
     "address": "Женевска бр. 51",
-    "source": "OSM",
-    "municipality": "Карпош"
+    "source": "OSM"
   },
   {
     "id": "osm-w-241089491",
@@ -4219,8 +4219,8 @@
     "type": "primary",
     "lat": 42.0074114,
     "lng": 20.9701616,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-4434599189",
@@ -4228,8 +4228,8 @@
     "type": "primary",
     "lat": 41.7994281,
     "lng": 20.8999313,
-    "source": "OSM",
-    "municipality": "Гостивар"
+    "municipality": "Гостивар",
+    "source": "OSM"
   },
   {
     "id": "osm-w-707017724",
@@ -4237,8 +4237,8 @@
     "type": "primary",
     "lat": 41.973436,
     "lng": 21.2378011,
-    "source": "OSM",
-    "municipality": "Сарај"
+    "municipality": "Сарај",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1083221708",
@@ -4246,8 +4246,8 @@
     "type": "primary",
     "lat": 41.8789798,
     "lng": 20.8824661,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1328350504",
@@ -4255,8 +4255,8 @@
     "type": "primary",
     "lat": 42.0296856,
     "lng": 20.9965767,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1328351577",
@@ -4264,8 +4264,8 @@
     "type": "primary",
     "lat": 42.0282507,
     "lng": 21.0018893,
-    "source": "OSM",
-    "municipality": "Тетово"
+    "municipality": "Тетово",
+    "source": "OSM"
   },
   {
     "id": "osm-n-10951507901",
@@ -4283,8 +4283,8 @@
     "type": "primary",
     "lat": 41.8619064,
     "lng": 20.8899632,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-362621227",
@@ -4292,8 +4292,8 @@
     "type": "primary",
     "lat": 42.1339414,
     "lng": 21.7137695,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1083507078",
@@ -4301,8 +4301,8 @@
     "type": "primary",
     "lat": 41.8958487,
     "lng": 20.8622324,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1083437726",
@@ -4310,8 +4310,8 @@
     "type": "primary",
     "lat": 41.8804144,
     "lng": 20.8636949,
-    "source": "OSM",
-    "municipality": "Врапчиште"
+    "municipality": "Врапчиште",
+    "source": "OSM"
   },
   {
     "id": "osm-n-1233405214",
@@ -4319,8 +4319,8 @@
     "type": "primary",
     "lat": 41.7355541,
     "lng": 22.8440574,
-    "source": "OSM",
-    "municipality": "Берово"
+    "municipality": "Берово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1002974675",
@@ -4328,8 +4328,8 @@
     "type": "primary",
     "lat": 41.1211009,
     "lng": 20.7792765,
-    "source": "OSM",
-    "municipality": "Охрид"
+    "municipality": "Охрид",
+    "source": "OSM"
   },
   {
     "id": "osm-w-1348270343",
@@ -4337,8 +4337,8 @@
     "type": "primary",
     "lat": 41.4412344,
     "lng": 22.6852405,
-    "source": "OSM",
-    "municipality": "Струмица"
+    "municipality": "Струмица",
+    "source": "OSM"
   },
   {
     "id": "osm-n-5266913821",
@@ -4346,9 +4346,9 @@
     "type": "primary",
     "lat": 41.9915112,
     "lng": 20.9625155,
+    "municipality": "Тетово",
     "address": "Вон- Вардарска",
-    "source": "OSM",
-    "municipality": "Тетово"
+    "source": "OSM"
   },
   {
     "id": "osm-w-146849628",
@@ -4356,8 +4356,8 @@
     "type": "primary",
     "lat": 42.1308788,
     "lng": 21.7096697,
-    "source": "OSM",
-    "municipality": "Куманово"
+    "municipality": "Куманово",
+    "source": "OSM"
   },
   {
     "id": "osm-w-505215521",
@@ -4365,7 +4365,7 @@
     "type": "secondary",
     "lat": 41.9778213,
     "lng": 20.9709518,
-    "source": "OSM",
-    "municipality": "Брвеница"
+    "municipality": "Брвеница",
+    "source": "OSM"
   }
 ]

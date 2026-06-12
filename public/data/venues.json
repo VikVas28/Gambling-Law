@@ -5,9 +5,9 @@
     "kind": "automat_club",
     "lat": 41.7376688,
     "lng": 22.1923817,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-6348219070",
@@ -15,9 +15,9 @@
     "kind": "automat_club",
     "lat": 41.7371353,
     "lng": 22.1912565,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-6348347623",
@@ -25,9 +25,9 @@
     "kind": "automat_club",
     "lat": 41.7384568,
     "lng": 22.1939057,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-9863488599",
@@ -35,9 +35,9 @@
     "kind": "automat_club",
     "lat": 41.743112,
     "lng": 22.1982682,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-11899331818",
@@ -45,9 +45,9 @@
     "kind": "automat_club",
     "lat": 41.9401133,
     "lng": 21.5142257,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-n-13424657689",
@@ -55,9 +55,9 @@
     "kind": "casino",
     "lat": 41.9954394,
     "lng": 21.430426,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-w-1334497176",
@@ -65,9 +65,9 @@
     "kind": "casino",
     "lat": 41.9163331,
     "lng": 20.9417038,
+    "municipality": "Боговиње",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Боговиње"
+    "verified": false
   },
   {
     "id": "osm-n-5055432424",
@@ -75,9 +75,9 @@
     "kind": "casino",
     "lat": 42.079176,
     "lng": 22.1816694,
+    "municipality": "Кратово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кратово"
+    "verified": false
   },
   {
     "id": "osm-n-8910427387",
@@ -85,9 +85,9 @@
     "kind": "betting_shop",
     "lat": 41.0282534,
     "lng": 21.3372384,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-10173244013",
@@ -95,9 +95,9 @@
     "kind": "automat_club",
     "lat": 41.1245282,
     "lng": 20.8117318,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10203858690",
@@ -105,9 +105,9 @@
     "kind": "betting_shop",
     "lat": 41.1765103,
     "lng": 20.6763328,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-11307055999",
@@ -115,9 +115,9 @@
     "kind": "betting_shop",
     "lat": 41.0319529,
     "lng": 21.3347548,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-10209378794",
@@ -125,9 +125,9 @@
     "kind": "betting_shop",
     "lat": 41.796462,
     "lng": 20.9109119,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-6820837985",
@@ -135,9 +135,9 @@
     "kind": "automat_club",
     "lat": 41.9936306,
     "lng": 21.4360366,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-10177808919",
@@ -145,9 +145,9 @@
     "kind": "automat_club",
     "lat": 41.9943986,
     "lng": 21.4031837,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-12376343997",
@@ -177,9 +177,9 @@
     "kind": "casino",
     "lat": 41.1130024,
     "lng": 20.8017871,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-4356217190",
@@ -187,9 +187,9 @@
     "kind": "casino",
     "lat": 41.7383003,
     "lng": 22.1949766,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-4356305289",
@@ -197,9 +197,9 @@
     "kind": "casino",
     "lat": 41.7384527,
     "lng": 22.1961735,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-4360803292",
@@ -207,9 +207,9 @@
     "kind": "casino",
     "lat": 41.7371745,
     "lng": 22.1921393,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-4363539889",
@@ -217,9 +217,9 @@
     "kind": "casino",
     "lat": 41.7375115,
     "lng": 22.1902791,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-4411088898",
@@ -227,9 +227,9 @@
     "kind": "casino",
     "lat": 41.0289557,
     "lng": 21.3357312,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-6054032915",
@@ -237,9 +237,9 @@
     "kind": "casino",
     "lat": 41.9987688,
     "lng": 21.4235372,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6054048704",
@@ -247,9 +247,9 @@
     "kind": "casino",
     "lat": 41.9993227,
     "lng": 21.438589,
+    "municipality": "Чаир",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Чаир"
+    "verified": false
   },
   {
     "id": "osm-n-6054048712",
@@ -257,9 +257,9 @@
     "kind": "casino",
     "lat": 42.0043198,
     "lng": 21.3840568,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-6054048717",
@@ -267,9 +267,9 @@
     "kind": "casino",
     "lat": 41.9980393,
     "lng": 21.424366,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6054049786",
@@ -277,9 +277,9 @@
     "kind": "casino",
     "lat": 41.9971812,
     "lng": 21.4273087,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6054049797",
@@ -287,9 +287,9 @@
     "kind": "casino",
     "lat": 41.9952638,
     "lng": 21.4235236,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6054049807",
@@ -297,9 +297,9 @@
     "kind": "casino",
     "lat": 41.9963038,
     "lng": 21.4284562,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6079524216",
@@ -307,9 +307,9 @@
     "kind": "casino",
     "lat": 42.0245494,
     "lng": 22.5879347,
+    "municipality": "Македонска Каменица",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Македонска Каменица"
+    "verified": false
   },
   {
     "id": "osm-n-8909816036",
@@ -317,9 +317,9 @@
     "kind": "casino",
     "lat": 41.0277413,
     "lng": 21.3363481,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-8917359379",
@@ -327,9 +327,9 @@
     "kind": "casino",
     "lat": 41.0313378,
     "lng": 21.3330311,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-9200216347",
@@ -337,9 +337,9 @@
     "kind": "casino",
     "lat": 42.0066408,
     "lng": 21.3619803,
+    "municipality": "Ѓорче Петров",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Ѓорче Петров"
+    "verified": false
   },
   {
     "id": "osm-n-10211871901",
@@ -347,9 +347,9 @@
     "kind": "casino",
     "lat": 42.0547537,
     "lng": 21.3773131,
+    "municipality": "Чучер-Сандево",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Чучер-Сандево"
+    "verified": false
   },
   {
     "id": "osm-n-11899331751",
@@ -357,9 +357,9 @@
     "kind": "casino",
     "lat": 41.9375318,
     "lng": 21.520867,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-w-181361249",
@@ -367,9 +367,9 @@
     "kind": "casino",
     "lat": 41.1857031,
     "lng": 22.7219932,
+    "municipality": "Дојран",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Дојран"
+    "verified": false
   },
   {
     "id": "osm-w-983122126",
@@ -377,9 +377,9 @@
     "kind": "casino",
     "lat": 41.9831778,
     "lng": 21.4392449,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-w-1312338837",
@@ -387,9 +387,9 @@
     "kind": "casino",
     "lat": 41.9401768,
     "lng": 21.51426,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-w-1312338869",
@@ -397,9 +397,9 @@
     "kind": "casino",
     "lat": 41.9381258,
     "lng": 21.5170965,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-w-1464176696",
@@ -407,9 +407,9 @@
     "kind": "casino",
     "lat": 41.9955325,
     "lng": 21.4768719,
+    "municipality": "Гази Баба",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гази Баба"
+    "verified": false
   },
   {
     "id": "osm-w-227416926",
@@ -461,9 +461,9 @@
     "kind": "betting_shop",
     "lat": 42.206988,
     "lng": 22.3361758,
+    "municipality": "Крива Паланка",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Крива Паланка"
+    "verified": false
   },
   {
     "id": "osm-n-9567114576",
@@ -471,9 +471,9 @@
     "kind": "betting_shop",
     "lat": 41.8648611,
     "lng": 21.9408472,
+    "municipality": "Свети Николе",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Свети Николе"
+    "verified": false
   },
   {
     "id": "osm-w-180455564",
@@ -481,9 +481,9 @@
     "kind": "casino",
     "lat": 41.1404653,
     "lng": 22.5400317,
+    "municipality": "Гевгелија",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гевгелија"
+    "verified": false
   },
   {
     "id": "osm-n-6054048491",
@@ -491,9 +491,9 @@
     "kind": "casino",
     "lat": 41.9975826,
     "lng": 21.4242615,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-8910483065",
@@ -501,9 +501,9 @@
     "kind": "casino",
     "lat": 41.0282694,
     "lng": 21.3372875,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-w-180455562",
@@ -511,9 +511,9 @@
     "kind": "casino",
     "lat": 41.1406613,
     "lng": 22.5399716,
+    "municipality": "Гевгелија",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гевгелија"
+    "verified": false
   },
   {
     "id": "osm-n-9124373622",
@@ -521,9 +521,9 @@
     "kind": "betting_shop",
     "lat": 41.9957375,
     "lng": 21.4143191,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-5344777679",
@@ -531,9 +531,9 @@
     "kind": "casino",
     "lat": 42.0072989,
     "lng": 21.3715093,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-5790395955",
@@ -541,9 +541,9 @@
     "kind": "casino",
     "lat": 41.5126709,
     "lng": 20.9631584,
+    "municipality": "Кичево",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кичево"
+    "verified": false
   },
   {
     "id": "osm-n-6054034632",
@@ -551,9 +551,9 @@
     "kind": "casino",
     "lat": 41.9988629,
     "lng": 21.4232956,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-9200216333",
@@ -561,9 +561,9 @@
     "kind": "casino",
     "lat": 41.1169374,
     "lng": 20.8011925,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10195320041",
@@ -571,9 +571,9 @@
     "kind": "casino",
     "lat": 41.994019,
     "lng": 21.4164398,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-10203858692",
@@ -581,9 +581,9 @@
     "kind": "casino",
     "lat": 41.176637,
     "lng": 20.6759482,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-10209378800",
@@ -591,9 +591,9 @@
     "kind": "automat_club",
     "lat": 41.796536,
     "lng": 20.9144197,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-10211871860",
@@ -601,9 +601,9 @@
     "kind": "automat_club",
     "lat": 42.14044,
     "lng": 21.71922,
+    "municipality": "Куманово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Куманово"
+    "verified": false
   },
   {
     "id": "osm-n-10211871899",
@@ -611,9 +611,9 @@
     "kind": "automat_club",
     "lat": 42.018258,
     "lng": 21.4097806,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-6821158585",
@@ -621,9 +621,9 @@
     "kind": "casino",
     "lat": 41.9951324,
     "lng": 21.4325014,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-9200215928",
@@ -631,9 +631,9 @@
     "kind": "casino",
     "lat": 41.9880034,
     "lng": 21.4364245,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-10202842071",
@@ -641,9 +641,9 @@
     "kind": "casino",
     "lat": 41.177865,
     "lng": 20.6782481,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-12222295024",
@@ -651,9 +651,9 @@
     "kind": "casino",
     "lat": 41.9985122,
     "lng": 21.4247042,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-12750055210",
@@ -673,9 +673,9 @@
     "kind": "casino",
     "lat": 41.9854986,
     "lng": 21.4669788,
+    "municipality": "Аеродром",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Аеродром"
+    "verified": false
   },
   {
     "id": "osm-n-4437622042",
@@ -683,9 +683,9 @@
     "kind": "casino",
     "lat": 41.1411241,
     "lng": 22.503936,
+    "municipality": "Гевгелија",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гевгелија"
+    "verified": false
   },
   {
     "id": "osm-n-6258693385",
@@ -693,9 +693,9 @@
     "kind": "casino",
     "lat": 42.0010232,
     "lng": 21.4127132,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-w-410064786",
@@ -703,9 +703,9 @@
     "kind": "casino",
     "lat": 41.9954327,
     "lng": 21.4094671,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-w-305388567",
@@ -713,9 +713,9 @@
     "kind": "casino",
     "lat": 41.1153402,
     "lng": 20.800496,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-6054048489",
@@ -723,9 +723,9 @@
     "kind": "casino",
     "lat": 41.9998538,
     "lng": 21.4159092,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-12758331211",
@@ -733,9 +733,9 @@
     "kind": "casino",
     "lat": 42.0020725,
     "lng": 21.4005999,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-w-1334317359",
@@ -743,9 +743,9 @@
     "kind": "casino",
     "lat": 42.0084522,
     "lng": 20.9744835,
+    "municipality": "Тетово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Тетово"
+    "verified": false
   },
   {
     "id": "osm-n-529808093",
@@ -753,9 +753,9 @@
     "kind": "casino",
     "lat": 41.4339118,
     "lng": 22.0113129,
+    "municipality": "Кавадарци",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кавадарци"
+    "verified": false
   },
   {
     "id": "osm-n-10203858700",
@@ -763,9 +763,9 @@
     "kind": "betting_shop",
     "lat": 41.1765254,
     "lng": 20.6759512,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-10173264240",
@@ -773,9 +773,9 @@
     "kind": "automat_club",
     "lat": 41.1241408,
     "lng": 20.8119766,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10173275718",
@@ -783,9 +783,9 @@
     "kind": "automat_club",
     "lat": 41.1242528,
     "lng": 20.8119133,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-w-1464176697",
@@ -793,9 +793,9 @@
     "kind": "casino",
     "lat": 41.9953427,
     "lng": 21.476316,
+    "municipality": "Гази Баба",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гази Баба"
+    "verified": false
   },
   {
     "id": "osm-w-306911904",
@@ -803,9 +803,9 @@
     "kind": "casino",
     "lat": 41.1705935,
     "lng": 22.7476355,
+    "municipality": "Дојран",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Дојран"
+    "verified": false
   },
   {
     "id": "osm-n-10198287818",
@@ -813,9 +813,9 @@
     "kind": "casino",
     "lat": 41.990761,
     "lng": 21.4454859,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Аеродром"
+    "verified": false
   },
   {
     "id": "osm-n-9161043718",
@@ -823,9 +823,9 @@
     "kind": "casino",
     "lat": 41.1134782,
     "lng": 20.8013803,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10202493102",
@@ -833,9 +833,9 @@
     "kind": "automat_club",
     "lat": 41.1782698,
     "lng": 20.6762841,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-4327921318",
@@ -843,9 +843,9 @@
     "kind": "betting_shop",
     "lat": 42.0034137,
     "lng": 21.3986642,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-10209378795",
@@ -853,9 +853,9 @@
     "kind": "automat_club",
     "lat": 41.796462,
     "lng": 20.9110352,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-10173451385",
@@ -863,9 +863,9 @@
     "kind": "automat_club",
     "lat": 41.1123068,
     "lng": 20.8024404,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-11276711866",
@@ -874,9 +874,9 @@
     "operator": "KS77",
     "lat": 41.0323659,
     "lng": 21.3419969,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-w-181363054",
@@ -884,9 +884,9 @@
     "kind": "casino",
     "lat": 41.1856686,
     "lng": 22.7221083,
+    "municipality": "Дојран",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Дојран"
+    "verified": false
   },
   {
     "id": "osm-n-4594432345",
@@ -894,9 +894,9 @@
     "kind": "casino",
     "lat": 41.994873,
     "lng": 21.4359281,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-w-1500626462",
@@ -915,9 +915,9 @@
     "kind": "casino",
     "lat": 41.1133266,
     "lng": 20.8017728,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-4267660931",
@@ -925,9 +925,9 @@
     "kind": "betting_shop",
     "lat": 42.0048718,
     "lng": 20.9900766,
+    "municipality": "Тетово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Тетово"
+    "verified": false
   },
   {
     "id": "osm-n-10204019538",
@@ -935,9 +935,9 @@
     "kind": "betting_shop",
     "lat": 41.1741743,
     "lng": 20.6801345,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-6814247287",
@@ -945,9 +945,9 @@
     "kind": "betting_shop",
     "lat": 41.9956039,
     "lng": 21.4261917,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-w-1359827564",
@@ -955,9 +955,9 @@
     "kind": "casino",
     "lat": 41.1713348,
     "lng": 22.7408677,
+    "municipality": "Дојран",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Дојран"
+    "verified": false
   },
   {
     "id": "osm-n-6834500687",
@@ -965,9 +965,9 @@
     "kind": "betting_shop",
     "lat": 41.1093236,
     "lng": 20.8111031,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-9200216564",
@@ -975,9 +975,9 @@
     "kind": "casino",
     "lat": 41.9888391,
     "lng": 21.4364135,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-9200216568",
@@ -985,9 +985,9 @@
     "kind": "casino",
     "lat": 42.0004527,
     "lng": 21.4124568,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-9200216719",
@@ -995,9 +995,9 @@
     "kind": "casino",
     "lat": 41.9980552,
     "lng": 21.4242266,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-12758331214",
@@ -1005,9 +1005,9 @@
     "kind": "betting_shop",
     "lat": 42.0030515,
     "lng": 21.3931372,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-12872585700",
@@ -1015,9 +1015,9 @@
     "kind": "betting_shop",
     "lat": 41.9940899,
     "lng": 21.432116,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-12872686401",
@@ -1025,9 +1025,9 @@
     "kind": "betting_shop",
     "lat": 41.9957405,
     "lng": 21.501022,
+    "municipality": "Гази Баба",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гази Баба"
+    "verified": false
   },
   {
     "id": "osm-n-12872686402",
@@ -1035,9 +1035,9 @@
     "kind": "betting_shop",
     "lat": 42.0150503,
     "lng": 21.4439315,
+    "municipality": "Чаир",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Чаир"
+    "verified": false
   },
   {
     "id": "osm-n-12872686403",
@@ -1045,9 +1045,9 @@
     "kind": "betting_shop",
     "lat": 41.9846921,
     "lng": 21.4552688,
+    "municipality": "Аеродром",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Аеродром"
+    "verified": false
   },
   {
     "id": "osm-n-12872686404",
@@ -1055,9 +1055,9 @@
     "kind": "betting_shop",
     "lat": 41.98227,
     "lng": 21.48253,
+    "municipality": "Аеродром",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Аеродром"
+    "verified": false
   },
   {
     "id": "osm-n-12872686405",
@@ -1065,9 +1065,9 @@
     "kind": "betting_shop",
     "lat": 41.9929796,
     "lng": 21.4403075,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-12872686406",
@@ -1075,9 +1075,9 @@
     "kind": "betting_shop",
     "lat": 41.98045,
     "lng": 21.46045,
+    "municipality": "Аеродром",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Аеродром"
+    "verified": false
   },
   {
     "id": "osm-n-12872686407",
@@ -1085,9 +1085,9 @@
     "kind": "betting_shop",
     "lat": 42.0325161,
     "lng": 21.4440921,
+    "municipality": "Бутел",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Бутел"
+    "verified": false
   },
   {
     "id": "osm-n-12872686408",
@@ -1095,9 +1095,9 @@
     "kind": "betting_shop",
     "lat": 41.9165971,
     "lng": 22.4099556,
+    "municipality": "Кочани",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кочани"
+    "verified": false
   },
   {
     "id": "osm-n-12872686409",
@@ -1105,9 +1105,9 @@
     "kind": "betting_shop",
     "lat": 42.0091626,
     "lng": 20.9759608,
+    "municipality": "Тетово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Тетово"
+    "verified": false
   },
   {
     "id": "osm-n-12872686410",
@@ -1115,9 +1115,9 @@
     "kind": "betting_shop",
     "lat": 41.1143037,
     "lng": 20.8015716,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-12872686411",
@@ -1125,9 +1125,9 @@
     "kind": "betting_shop",
     "lat": 41.0377,
     "lng": 21.345824,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-12872686412",
@@ -1135,9 +1135,9 @@
     "kind": "betting_shop",
     "lat": 41.7933505,
     "lng": 20.9092918,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-12872686413",
@@ -1145,9 +1145,9 @@
     "kind": "betting_shop",
     "lat": 41.02721,
     "lng": 21.31384,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-12872686414",
@@ -1155,9 +1155,9 @@
     "kind": "betting_shop",
     "lat": 41.7914927,
     "lng": 20.9076718,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-12872686415",
@@ -1165,9 +1165,9 @@
     "kind": "betting_shop",
     "lat": 41.1776203,
     "lng": 20.6827632,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-13271831728",
@@ -1175,9 +1175,9 @@
     "kind": "betting_shop",
     "lat": 41.3473948,
     "lng": 21.5567261,
+    "municipality": "Прилеп",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Прилеп"
+    "verified": false
   },
   {
     "id": "osm-n-13271831729",
@@ -1185,9 +1185,9 @@
     "kind": "betting_shop",
     "lat": 42.0402535,
     "lng": 21.3950855,
+    "municipality": "Бутел",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Бутел"
+    "verified": false
   },
   {
     "id": "osm-n-13271831730",
@@ -1195,9 +1195,9 @@
     "kind": "betting_shop",
     "lat": 41.143502,
     "lng": 22.502982,
+    "municipality": "Гевгелија",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гевгелија"
+    "verified": false
   },
   {
     "id": "osm-n-13271831731",
@@ -1205,9 +1205,9 @@
     "kind": "betting_shop",
     "lat": 41.9833896,
     "lng": 21.4395666,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-n-13271831732",
@@ -1215,9 +1215,9 @@
     "kind": "betting_shop",
     "lat": 42.1370869,
     "lng": 21.7176426,
+    "municipality": "Куманово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Куманово"
+    "verified": false
   },
   {
     "id": "osm-n-13271831733",
@@ -1225,9 +1225,9 @@
     "kind": "betting_shop",
     "lat": 41.9972196,
     "lng": 20.9608948,
+    "municipality": "Тетово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Тетово"
+    "verified": false
   },
   {
     "id": "osm-n-13271831734",
@@ -1235,9 +1235,9 @@
     "kind": "betting_shop",
     "lat": 41.6324568,
     "lng": 22.4637419,
+    "municipality": "Радовиш",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Радовиш"
+    "verified": false
   },
   {
     "id": "osm-n-13271831735",
@@ -1245,9 +1245,9 @@
     "kind": "betting_shop",
     "lat": 41.7423931,
     "lng": 22.1927986,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-13304196444",
@@ -1255,9 +1255,9 @@
     "kind": "betting_shop",
     "lat": 41.7983296,
     "lng": 20.9140715,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-5242828728",
@@ -1265,9 +1265,9 @@
     "kind": "betting_shop",
     "lat": 42.0032317,
     "lng": 21.4081008,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-5318299749",
@@ -1275,9 +1275,9 @@
     "kind": "betting_shop",
     "lat": 41.9672591,
     "lng": 22.7745815,
+    "municipality": "Делчево",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Делчево"
+    "verified": false
   },
   {
     "id": "osm-n-5344777680",
@@ -1285,9 +1285,9 @@
     "kind": "betting_shop",
     "lat": 42.0074885,
     "lng": 21.3713009,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-10177776266",
@@ -1295,9 +1295,9 @@
     "kind": "automat_club",
     "lat": 41.9944477,
     "lng": 21.4031966,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-10202493089",
@@ -1305,9 +1305,9 @@
     "kind": "betting_shop",
     "lat": 41.1774241,
     "lng": 20.6732508,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-10203858684",
@@ -1315,9 +1315,9 @@
     "kind": "betting_shop",
     "lat": 41.1763085,
     "lng": 20.6759537,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-10209378796",
@@ -1325,9 +1325,9 @@
     "kind": "betting_shop",
     "lat": 41.796462,
     "lng": 20.9111334,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-11487095133",
@@ -1335,9 +1335,9 @@
     "kind": "betting_shop",
     "lat": 42.0034317,
     "lng": 21.3975203,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-12312249877",
@@ -1345,9 +1345,9 @@
     "kind": "betting_shop",
     "lat": 42.0776781,
     "lng": 22.181626,
+    "municipality": "Кратово",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кратово"
+    "verified": false
   },
   {
     "id": "osm-n-529808066",
@@ -1355,9 +1355,9 @@
     "kind": "casino",
     "lat": 41.4357199,
     "lng": 22.0110468,
+    "municipality": "Кавадарци",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кавадарци"
+    "verified": false
   },
   {
     "id": "osm-n-5344777682",
@@ -1365,9 +1365,9 @@
     "kind": "casino",
     "lat": 42.0079507,
     "lng": 21.3696473,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-6054049810",
@@ -1375,9 +1375,9 @@
     "kind": "casino",
     "lat": 42.0002627,
     "lng": 21.4162338,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-6821158693",
@@ -1385,9 +1385,9 @@
     "kind": "casino",
     "lat": 41.9949915,
     "lng": 21.4311478,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-9161043719",
@@ -1395,9 +1395,9 @@
     "kind": "casino",
     "lat": 41.1130157,
     "lng": 20.8015731,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-9200216068",
@@ -1405,9 +1405,9 @@
     "kind": "casino",
     "lat": 41.9883882,
     "lng": 21.4366456,
+    "municipality": "Центар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Центар"
+    "verified": false
   },
   {
     "id": "osm-n-11246139003",
@@ -1415,9 +1415,9 @@
     "kind": "automat_club",
     "lat": 41.7964447,
     "lng": 20.9106145,
+    "municipality": "Гостивар",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Гостивар"
+    "verified": false
   },
   {
     "id": "osm-n-11275585240",
@@ -1425,9 +1425,9 @@
     "kind": "automat_club",
     "lat": 41.9854231,
     "lng": 21.4381294,
+    "municipality": "Кисела Вода",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Кисела Вода"
+    "verified": false
   },
   {
     "id": "osm-n-12059757239",
@@ -1435,9 +1435,9 @@
     "kind": "casino",
     "lat": 42.0034247,
     "lng": 21.3993746,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-12216569178",
@@ -1445,9 +1445,9 @@
     "kind": "automat_club",
     "lat": 41.9996062,
     "lng": 21.4364423,
+    "municipality": "Чаир",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Чаир"
+    "verified": false
   },
   {
     "id": "osm-n-4881325494",
@@ -1456,9 +1456,9 @@
     "operator": "senator",
     "lat": 42.0061879,
     "lng": 21.4062967,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-6814246722",
@@ -1466,9 +1466,9 @@
     "kind": "betting_shop",
     "lat": 41.9997139,
     "lng": 21.4372837,
+    "municipality": "Чаир",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Чаир"
+    "verified": false
   },
   {
     "id": "osm-n-6837039800",
@@ -1476,9 +1476,9 @@
     "kind": "betting_shop",
     "lat": 41.1176628,
     "lng": 20.815584,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-8908302075",
@@ -1486,9 +1486,9 @@
     "kind": "betting_shop",
     "lat": 41.0265417,
     "lng": 21.3367894,
+    "municipality": "Битола",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Битола"
+    "verified": false
   },
   {
     "id": "osm-n-4130738812",
@@ -1508,9 +1508,9 @@
     "kind": "automat_club",
     "lat": 41.1244899,
     "lng": 20.8121092,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10203858679",
@@ -1518,9 +1518,9 @@
     "kind": "betting_shop",
     "lat": 41.1757668,
     "lng": 20.6760321,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-11532129364",
@@ -1550,9 +1550,9 @@
     "kind": "betting_shop",
     "lat": 41.1770874,
     "lng": 20.6730084,
+    "municipality": "Струга",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Струга"
+    "verified": false
   },
   {
     "id": "osm-n-4990142142",
@@ -1560,10 +1560,10 @@
     "kind": "casino",
     "lat": 42.0591176,
     "lng": 21.4512951,
+    "municipality": "Бутел",
     "address": "Радишанска",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Бутел"
+    "verified": false
   },
   {
     "id": "osm-n-4990148632",
@@ -1571,9 +1571,9 @@
     "kind": "casino",
     "lat": 41.9960148,
     "lng": 21.4092857,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-6837039796",
@@ -1581,9 +1581,9 @@
     "kind": "betting_shop",
     "lat": 41.1134879,
     "lng": 20.816241,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-989142840",
@@ -1591,9 +1591,9 @@
     "kind": "automat_club",
     "lat": 41.7382806,
     "lng": 22.1942983,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-10211871900",
@@ -1601,9 +1601,9 @@
     "kind": "casino",
     "lat": 42.03591,
     "lng": 21.39971,
+    "municipality": "Бутел",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Бутел"
+    "verified": false
   },
   {
     "id": "osm-n-9025119026",
@@ -1611,9 +1611,9 @@
     "kind": "casino",
     "lat": 41.3677232,
     "lng": 21.2484906,
+    "municipality": "Крушево",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Крушево"
+    "verified": false
   },
   {
     "id": "osm-n-12588665305",
@@ -1621,9 +1621,9 @@
     "kind": "casino",
     "lat": 41.7728957,
     "lng": 22.1405593,
+    "municipality": "Штип",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Штип"
+    "verified": false
   },
   {
     "id": "osm-n-10173461455",
@@ -1631,9 +1631,9 @@
     "kind": "automat_club",
     "lat": 41.1124345,
     "lng": 20.8025554,
+    "municipality": "Охрид",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Охрид"
+    "verified": false
   },
   {
     "id": "osm-n-10184021892",
@@ -1641,9 +1641,9 @@
     "kind": "automat_club",
     "lat": 41.9941239,
     "lng": 21.4010265,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   },
   {
     "id": "osm-n-4990142140",
@@ -1651,8 +1651,8 @@
     "kind": "casino",
     "lat": 41.9958867,
     "lng": 21.4087335,
+    "municipality": "Карпош",
     "source": "OSM",
-    "verified": false,
-    "municipality": "Карпош"
+    "verified": false
   }
 ]
