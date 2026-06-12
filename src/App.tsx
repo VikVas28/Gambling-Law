@@ -3,6 +3,7 @@ import type { Feature, FeatureCollection } from "geojson";
 import MapView from "./components/MapView";
 import Sidebar from "./components/Sidebar";
 import Legend from "./components/Legend";
+import DisclaimerModal from "./components/DisclaimerModal";
 import { classifyAll, type ClassifiedVenue } from "./lib/compliance";
 import {
   DEFAULT_FILTERS,
@@ -158,6 +159,7 @@ export default function App() {
 
   return (
     <div className="flex h-dvh flex-col lg:flex-row">
+      <DisclaimerModal />
       <Sidebar
         counts={counts}
         filters={filters}
